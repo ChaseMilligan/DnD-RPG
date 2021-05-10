@@ -2,53 +2,25 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Cainos.PixelArtTopDown_Basic
+public class TopDownCharacterController : MonoBehaviour
 {
-    public class TopDownCharacterController : MonoBehaviour
-    {
-        public float speed;
+    public float speed = 5f;
 
-        public Animator animator;
+    public Rigidbody2D rb;
 
-        private void Update() {
+    public Animator animator;
 
-            Vector2 dir = Vector2.zero;
+    Vector2 movement;
 
-            if (Input.GetKey(KeyCode.A)) {
-                dir.x = -1;
-                animator.SetBool("Moving", true);
-                animator.SetFloat("Direction", 3);
-            } else {
-                animator.SetBool("Moving", false);
-            }
+    void Update() {
+        movement.x = Input.GetAxisRaw("Horizontal");
+        movement.y = Input.GetAxisRaw("Vertical");
+        animator.SetFloat("Horizontal", movement.x);
+        animator.SetFloat("Vertical", movement.y);
+        animator.SetFloat("Speed", movement.sqrMagnitude);
+    }
 
-            if (Input.GetKey(KeyCode.D)) {
-                dir.x = 1;
-                animator.SetBool("Moving", true);
-                animator.SetFloat("Direction", 1);
-            } else {
-                animator.SetBool("Moving", false);
-            }
-
-            if (Input.GetKey(KeyCode.W)) {
-                dir.y = 1;
-                animator.SetBool("Moving", true);
-                animator.SetFloat("Direction", 0);
-            } else {
-                animator.SetBool("Moving", false);
-            }
-
-            if (Input.GetKey(KeyCode.S)) {
-                dir.y = -1;
-                animator.SetBool("Moving", true);
-                animator.SetFloat("Direction", 2);
-            } else {
-                animator.SetBool("Moving", false);
-            }
-
-            dir.Normalize();
-
-            GetComponent<Rigidbody2D>().velocity = speed * dir;
-        }
+    void FixedUpdate() {
+        rb.MovePosition(rb.position + movement.normalized * speed * Time.fixedDeltaTime);
     }
 }

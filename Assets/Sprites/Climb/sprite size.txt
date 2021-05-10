@@ -1,0 +1,1 @@
+sprite size: 67x52 px

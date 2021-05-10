@@ -325,6 +325,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  rb: {fileID: 821725432}
   animator: {fileID: 821725433}
 --- !u!212 &821725430
 SpriteRenderer:

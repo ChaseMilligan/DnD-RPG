@@ -1,7 +1,1897 @@
 fileFormatVersion: 2
 guid: bb88de85028a76d449475259082365a6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6915081410409326122
+    second: houses_outside_0
+  - first:
+      213: -2937366573654666934
+    second: houses_outside_1
+  - first:
+      213: 3735316276636080663
+    second: houses_outside_2
+  - first:
+      213: 6590208079741033449
+    second: houses_outside_3
+  - first:
+      213: 8592175822786751316
+    second: houses_outside_4
+  - first:
+      213: 1925416278137948088
+    second: houses_outside_5
+  - first:
+      213: 7164870664187503615
+    second: houses_outside_6
+  - first:
+      213: -6253941760875605380
+    second: houses_outside_7
+  - first:
+      213: 2642036979668251744
+    second: houses_outside_8
+  - first:
+      213: -8184754951252679228
+    second: houses_outside_9
+  - first:
+      213: -5528161467395693137
+    second: houses_outside_10
+  - first:
+      213: 7412573354313028777
+    second: houses_outside_11
+  - first:
+      213: 3871737216042061995
+    second: houses_outside_12
+  - first:
+      213: -9077574036197686314
+    second: houses_outside_13
+  - first:
+      213: 4254398531171392509
+    second: houses_outside_14
+  - first:
+      213: 938452997100193832
+    second: houses_outside_15
+  - first:
+      213: -1652643027006238304
+    second: houses_outside_16
+  - first:
+      213: 6724394508082258623
+    second: houses_outside_17
+  - first:
+      213: 3691046477712184799
+    second: houses_outside_18
+  - first:
+      213: 7213165873574745277
+    second: houses_outside_19
+  - first:
+      213: -6538758871184311203
+    second: houses_outside_20
+  - first:
+      213: 5969316668093448976
+    second: houses_outside_21
+  - first:
+      213: -430035177763181295
+    second: houses_outside_22
+  - first:
+      213: -5152351817500520629
+    second: houses_outside_23
+  - first:
+      213: 2800902405350584192
+    second: houses_outside_24
+  - first:
+      213: -6663482863816119684
+    second: houses_outside_25
+  - first:
+      213: -8931629937987076909
+    second: houses_outside_26
+  - first:
+      213: -7070679628693102466
+    second: houses_outside_27
+  - first:
+      213: -2569205372761090410
+    second: houses_outside_28
+  - first:
+      213: 4217527091020902043
+    second: houses_outside_29
+  - first:
+      213: -4137098428429569002
+    second: houses_outside_30
+  - first:
+      213: 932584198130753185
+    second: houses_outside_31
+  - first:
+      213: -7643317777875369247
+    second: houses_outside_32
+  - first:
+      213: -8362465387309902844
+    second: houses_outside_33
+  - first:
+      213: 8894064952754626450
+    second: houses_outside_34
+  - first:
+      213: 8752043246622517015
+    second: houses_outside_35
+  - first:
+      213: 3482688476867696505
+    second: houses_outside_36
+  - first:
+      213: 8762862258358171163
+    second: houses_outside_37
+  - first:
+      213: -3392900034249079902
+    second: houses_outside_38
+  - first:
+      213: 5332627654148698621
+    second: houses_outside_39
+  - first:
+      213: -6578195067910529818
+    second: houses_outside_40
+  - first:
+      213: -3959320692402638578
+    second: houses_outside_41
+  - first:
+      213: -4487071458314814279
+    second: houses_outside_42
+  - first:
+      213: 1587744057846816049
+    second: houses_outside_43
+  - first:
+      213: 443633596933631532
+    second: houses_outside_44
+  - first:
+      213: -5313604708663075502
+    second: houses_outside_45
+  - first:
+      213: -4863677456782051457
+    second: houses_outside_46
+  - first:
+      213: -3638228109534123076
+    second: houses_outside_47
+  - first:
+      213: 865536877212432547
+    second: houses_outside_48
+  - first:
+      213: -3409412396791897429
+    second: houses_outside_49
+  - first:
+      213: 9021324772194896425
+    second: houses_outside_50
+  - first:
+      213: 6546712150416420168
+    second: houses_outside_51
+  - first:
+      213: 6217941490630313533
+    second: houses_outside_52
+  - first:
+      213: -8245715780892904817
+    second: houses_outside_53
+  - first:
+      213: -6638686499104662658
+    second: houses_outside_54
+  - first:
+      213: 7821457113987131528
+    second: houses_outside_55
+  - first:
+      213: -2216731016126522113
+    second: houses_outside_56
+  - first:
+      213: 7298188287648752042
+    second: houses_outside_57
+  - first:
+      213: 831310070241325213
+    second: houses_outside_58
+  - first:
+      213: -4495131921824209484
+    second: houses_outside_59
+  - first:
+      213: -601004755527228112
+    second: houses_outside_60
+  - first:
+      213: -7142778166675201390
+    second: houses_outside_61
+  - first:
+      213: -6138412621599004016
+    second: houses_outside_62
+  - first:
+      213: 8337239266353313372
+    second: houses_outside_63
+  - first:
+      213: -5636886183141986684
+    second: houses_outside_64
+  - first:
+      213: -1740923148070309112
+    second: houses_outside_65
+  - first:
+      213: -5770307184513753835
+    second: houses_outside_66
+  - first:
+      213: 4909605238729436156
+    second: houses_outside_67
+  - first:
+      213: -4534629433384880726
+    second: houses_outside_68
+  - first:
+      213: 6189873806786994985
+    second: houses_outside_69
+  - first:
+      213: -3051455747716964634
+    second: houses_outside_70
+  - first:
+      213: -3805580918642997266
+    second: houses_outside_71
+  - first:
+      213: 5176277453789372597
+    second: houses_outside_72
+  - first:
+      213: -6174064386653913736
+    second: houses_outside_73
+  - first:
+      213: 3741410667938564621
+    second: houses_outside_74
+  - first:
+      213: -3084093310524240607
+    second: houses_outside_75
+  - first:
+      213: 1458904632150752777
+    second: houses_outside_76
+  - first:
+      213: 8631696609701473523
+    second: houses_outside_77
+  - first:
+      213: -605505471347599442
+    second: houses_outside_78
+  - first:
+      213: 7042541291299718746
+    second: houses_outside_79
+  - first:
+      213: -2990991500086681234
+    second: houses_outside_80
+  - first:
+      213: 6388204728123001398
+    second: houses_outside_81
+  - first:
+      213: -4234883285722489736
+    second: houses_outside_82
+  - first:
+      213: 5583860385187660544
+    second: houses_outside_83
+  - first:
+      213: 7538249865677691474
+    second: houses_outside_84
+  - first:
+      213: -4684705063534549038
+    second: houses_outside_85
+  - first:
+      213: -4044295279532400332
+    second: houses_outside_86
+  - first:
+      213: 7957565242026270877
+    second: houses_outside_87
+  - first:
+      213: -4499153292501825569
+    second: houses_outside_88
+  - first:
+      213: -1848440971759190935
+    second: houses_outside_89
+  - first:
+      213: 5322352898171456791
+    second: houses_outside_90
+  - first:
+      213: -877814827868075930
+    second: houses_outside_91
+  - first:
+      213: -5532252823617173281
+    second: houses_outside_92
+  - first:
+      213: -2926881746947631610
+    second: houses_outside_93
+  - first:
+      213: -6479610363891975185
+    second: houses_outside_94
+  - first:
+      213: 1782860206238519631
+    second: houses_outside_95
+  - first:
+      213: -1899267072127257144
+    second: houses_outside_96
+  - first:
+      213: 1207372402753336928
+    second: houses_outside_97
+  - first:
+      213: 899883767613903337
+    second: houses_outside_98
+  - first:
+      213: 6146661040741100711
+    second: houses_outside_99
+  - first:
+      213: -7398195822919268667
+    second: houses_outside_100
+  - first:
+      213: 864021932894879598
+    second: houses_outside_101
+  - first:
+      213: -5857579945361819195
+    second: houses_outside_102
+  - first:
+      213: -6159224745358185294
+    second: houses_outside_103
+  - first:
+      213: -1284708446100265549
+    second: houses_outside_104
+  - first:
+      213: 2042170028868862432
+    second: houses_outside_105
+  - first:
+      213: -2410143524911158753
+    second: houses_outside_106
+  - first:
+      213: 4287371007538306371
+    second: houses_outside_107
+  - first:
+      213: -1516778727550374321
+    second: houses_outside_108
+  - first:
+      213: -3601726340457196588
+    second: houses_outside_109
+  - first:
+      213: 6624695248043870743
+    second: houses_outside_110
+  - first:
+      213: -2027628690093836580
+    second: houses_outside_111
+  - first:
+      213: 5341325605289287737
+    second: houses_outside_112
+  - first:
+      213: 7439046789682839150
+    second: houses_outside_113
+  - first:
+      213: -2273979005018589356
+    second: houses_outside_114
+  - first:
+      213: -1679762977081042723
+    second: houses_outside_115
+  - first:
+      213: -5340608489627812876
+    second: houses_outside_116
+  - first:
+      213: 7732212908543897110
+    second: houses_outside_117
+  - first:
+      213: -7368673121367188291
+    second: houses_outside_118
+  - first:
+      213: -2185391505209798588
+    second: houses_outside_119
+  - first:
+      213: 902701897233134013
+    second: houses_outside_120
+  - first:
+      213: -2819925287928090389
+    second: houses_outside_121
+  - first:
+      213: -977763215718736193
+    second: houses_outside_122
+  - first:
+      213: 8406751391126680832
+    second: houses_outside_123
+  - first:
+      213: 4587408197399881213
+    second: houses_outside_124
+  - first:
+      213: -7410062453171892812
+    second: houses_outside_125
+  - first:
+      213: -255969854945046659
+    second: houses_outside_126
+  - first:
+      213: 3766439598703226324
+    second: houses_outside_127
+  - first:
+      213: 2241030943899650213
+    second: houses_outside_128
+  - first:
+      213: -3388357172885588180
+    second: houses_outside_129
+  - first:
+      213: 6081062254283364287
+    second: houses_outside_130
+  - first:
+      213: 7770877012681518249
+    second: houses_outside_131
+  - first:
+      213: -2094042834728994482
+    second: houses_outside_132
+  - first:
+      213: -8326438591351771508
+    second: houses_outside_133
+  - first:
+      213: 6919426518679225350
+    second: houses_outside_134
+  - first:
+      213: -4966902517911449871
+    second: houses_outside_135
+  - first:
+      213: -7570287270206631714
+    second: houses_outside_136
+  - first:
+      213: -4857336423221000662
+    second: houses_outside_137
+  - first:
+      213: -1277302245391899328
+    second: houses_outside_138
+  - first:
+      213: 3231233654574797656
+    second: houses_outside_139
+  - first:
+      213: -6313346829006872351
+    second: houses_outside_140
+  - first:
+      213: 8165575877283441648
+    second: houses_outside_141
+  - first:
+      213: -4592387437901860117
+    second: houses_outside_142
+  - first:
+      213: -943702238329678137
+    second: houses_outside_143
+  - first:
+      213: -2487291636941356462
+    second: houses_outside_144
+  - first:
+      213: 4808403983580491848
+    second: houses_outside_145
+  - first:
+      213: -4931303867327843375
+    second: houses_outside_146
+  - first:
+      213: 7846301055266488865
+    second: houses_outside_147
+  - first:
+      213: 1372469627259706635
+    second: houses_outside_148
+  - first:
+      213: 3253397168654015799
+    second: houses_outside_149
+  - first:
+      213: 3430831216830709413
+    second: houses_outside_150
+  - first:
+      213: 7064520423098588865
+    second: houses_outside_151
+  - first:
+      213: 8268422545613616995
+    second: houses_outside_152
+  - first:
+      213: 7825171294311235612
+    second: houses_outside_153
+  - first:
+      213: -2453265782707981672
+    second: houses_outside_154
+  - first:
+      213: 7822683781238067814
+    second: houses_outside_155
+  - first:
+      213: 4602558204549778171
+    second: houses_outside_156
+  - first:
+      213: -3809802688173137224
+    second: houses_outside_157
+  - first:
+      213: -1476966041228413046
+    second: houses_outside_158
+  - first:
+      213: -5389673150809171990
+    second: houses_outside_159
+  - first:
+      213: -7961154732003183922
+    second: houses_outside_160
+  - first:
+      213: -2277861282592826652
+    second: houses_outside_161
+  - first:
+      213: 3180395641614008680
+    second: houses_outside_162
+  - first:
+      213: 6230667013211502756
+    second: houses_outside_163
+  - first:
+      213: 5146023471677263012
+    second: houses_outside_164
+  - first:
+      213: 306627938132130340
+    second: houses_outside_165
+  - first:
+      213: -1470654553314755366
+    second: houses_outside_166
+  - first:
+      213: -7875332522642889913
+    second: houses_outside_167
+  - first:
+      213: 2016204798446238751
+    second: houses_outside_168
+  - first:
+      213: 7107936845624531159
+    second: houses_outside_169
+  - first:
+      213: 6227802619454942796
+    second: houses_outside_170
+  - first:
+      213: 6207824332633247769
+    second: houses_outside_171
+  - first:
+      213: -7457132779683273964
+    second: houses_outside_172
+  - first:
+      213: -223299692854005740
+    second: houses_outside_173
+  - first:
+      213: 9099682043414484337
+    second: houses_outside_174
+  - first:
+      213: -5522734178781026351
+    second: houses_outside_175
+  - first:
+      213: -1653697630067405111
+    second: houses_outside_176
+  - first:
+      213: 7966829204679732254
+    second: houses_outside_177
+  - first:
+      213: 9052699680249528848
+    second: houses_outside_178
+  - first:
+      213: 4235010847145533150
+    second: houses_outside_179
+  - first:
+      213: -5010225617947077376
+    second: houses_outside_180
+  - first:
+      213: 882109412660162296
+    second: houses_outside_181
+  - first:
+      213: 1480115834273450255
+    second: houses_outside_182
+  - first:
+      213: -1199810218712753785
+    second: houses_outside_183
+  - first:
+      213: -4483727617280483044
+    second: houses_outside_184
+  - first:
+      213: -8611911564411147318
+    second: houses_outside_185
+  - first:
+      213: -1549269215259929373
+    second: houses_outside_186
+  - first:
+      213: -7447855383699896587
+    second: houses_outside_187
+  - first:
+      213: -2645077827316207350
+    second: houses_outside_188
+  - first:
+      213: 5841657629860740886
+    second: houses_outside_189
+  - first:
+      213: -8361770048073016749
+    second: houses_outside_190
+  - first:
+      213: -6513641754448954588
+    second: houses_outside_191
+  - first:
+      213: 2872250962175967711
+    second: houses_outside_192
+  - first:
+      213: 2228656468473461933
+    second: houses_outside_193
+  - first:
+      213: 1800848162227909288
+    second: houses_outside_194
+  - first:
+      213: 531729152701819778
+    second: houses_outside_195
+  - first:
+      213: 4973778204991995759
+    second: houses_outside_196
+  - first:
+      213: -8978890547924443879
+    second: houses_outside_197
+  - first:
+      213: -7718054045736003418
+    second: houses_outside_198
+  - first:
+      213: 2507073166408586906
+    second: houses_outside_199
+  - first:
+      213: 3581601524070934515
+    second: houses_outside_200
+  - first:
+      213: -8259666563892378169
+    second: houses_outside_201
+  - first:
+      213: 4821966837551614077
+    second: houses_outside_202
+  - first:
+      213: 6287796959799003130
+    second: houses_outside_203
+  - first:
+      213: -8573543521485366324
+    second: houses_outside_204
+  - first:
+      213: 5167828962531099874
+    second: houses_outside_205
+  - first:
+      213: -1225782432609549696
+    second: houses_outside_206
+  - first:
+      213: 6334738635766272583
+    second: houses_outside_207
+  - first:
+      213: 5861257886869099284
+    second: houses_outside_208
+  - first:
+      213: -1241390109600060891
+    second: houses_outside_209
+  - first:
+      213: 4732277655878779769
+    second: houses_outside_210
+  - first:
+      213: 877211930731453403
+    second: houses_outside_211
+  - first:
+      213: 6284561527866950701
+    second: houses_outside_212
+  - first:
+      213: -9190618740600843776
+    second: houses_outside_213
+  - first:
+      213: 2612569669959476468
+    second: houses_outside_214
+  - first:
+      213: -7080098780502328394
+    second: houses_outside_215
+  - first:
+      213: -5309402043644308317
+    second: houses_outside_216
+  - first:
+      213: 7694250228883220357
+    second: houses_outside_217
+  - first:
+      213: 3078750485814878498
+    second: houses_outside_218
+  - first:
+      213: -549681125870118850
+    second: houses_outside_219
+  - first:
+      213: -1709155007366409621
+    second: houses_outside_220
+  - first:
+      213: 1935192842870820725
+    second: houses_outside_221
+  - first:
+      213: -5662017537338565785
+    second: houses_outside_222
+  - first:
+      213: -7291666458594603947
+    second: houses_outside_223
+  - first:
+      213: 2159488708540424612
+    second: houses_outside_224
+  - first:
+      213: -8562409124498890714
+    second: houses_outside_225
+  - first:
+      213: -2571734486359937567
+    second: houses_outside_226
+  - first:
+      213: -4378313849539610318
+    second: houses_outside_227
+  - first:
+      213: -4611067194341138799
+    second: houses_outside_228
+  - first:
+      213: -7399197211454054981
+    second: houses_outside_229
+  - first:
+      213: -8158790639941846254
+    second: houses_outside_230
+  - first:
+      213: 8494729368333908838
+    second: houses_outside_231
+  - first:
+      213: -7380230656203803214
+    second: houses_outside_232
+  - first:
+      213: 4930184044819581964
+    second: houses_outside_233
+  - first:
+      213: -4942678276333058554
+    second: houses_outside_234
+  - first:
+      213: 6677327497804572826
+    second: houses_outside_235
+  - first:
+      213: 7887666679180502462
+    second: houses_outside_236
+  - first:
+      213: 4140201392097917717
+    second: houses_outside_237
+  - first:
+      213: 721219972587213827
+    second: houses_outside_238
+  - first:
+      213: -727062447226387321
+    second: houses_outside_239
+  - first:
+      213: 2419115585681159991
+    second: houses_outside_240
+  - first:
+      213: -4952730648968252027
+    second: houses_outside_241
+  - first:
+      213: 7163642728622749160
+    second: houses_outside_242
+  - first:
+      213: -6213080770512609126
+    second: houses_outside_243
+  - first:
+      213: -7929658367083396099
+    second: houses_outside_244
+  - first:
+      213: -3502644956044105017
+    second: houses_outside_245
+  - first:
+      213: -749432771818651182
+    second: houses_outside_246
+  - first:
+      213: -1261446680870392562
+    second: houses_outside_247
+  - first:
+      213: -8614910865104948352
+    second: houses_outside_248
+  - first:
+      213: -5980898922292143731
+    second: houses_outside_249
+  - first:
+      213: 4056588209722293228
+    second: houses_outside_250
+  - first:
+      213: 1071040099051624571
+    second: houses_outside_251
+  - first:
+      213: 1133475745879883950
+    second: houses_outside_252
+  - first:
+      213: 474337225032397959
+    second: houses_outside_253
+  - first:
+      213: 3124752225370207963
+    second: houses_outside_254
+  - first:
+      213: -4165853002526564037
+    second: houses_outside_255
+  - first:
+      213: -4169369197168257284
+    second: houses_outside_256
+  - first:
+      213: -3807175888727434577
+    second: houses_outside_257
+  - first:
+      213: 7757579923724176161
+    second: houses_outside_258
+  - first:
+      213: 1062341873901979682
+    second: houses_outside_259
+  - first:
+      213: 1850200965887247332
+    second: houses_outside_260
+  - first:
+      213: 1445164705407732604
+    second: houses_outside_261
+  - first:
+      213: 7365986139296094628
+    second: houses_outside_262
+  - first:
+      213: 304359950344198459
+    second: houses_outside_263
+  - first:
+      213: -1432757129946325917
+    second: houses_outside_264
+  - first:
+      213: -8360200339570956311
+    second: houses_outside_265
+  - first:
+      213: 5768094541845137756
+    second: houses_outside_266
+  - first:
+      213: -7425960259970223693
+    second: houses_outside_267
+  - first:
+      213: -1649401989232843089
+    second: houses_outside_268
+  - first:
+      213: 7664211422809793791
+    second: houses_outside_269
+  - first:
+      213: -8546942447618434645
+    second: houses_outside_270
+  - first:
+      213: 2330434712961520711
+    second: houses_outside_271
+  - first:
+      213: -4682600061229757690
+    second: houses_outside_272
+  - first:
+      213: 3862489422998473074
+    second: houses_outside_273
+  - first:
+      213: -373135829684189221
+    second: houses_outside_274
+  - first:
+      213: 7936124381597603520
+    second: houses_outside_275
+  - first:
+      213: -7211435996045120397
+    second: houses_outside_276
+  - first:
+      213: 35746066353842868
+    second: houses_outside_277
+  - first:
+      213: 8504423194689044622
+    second: houses_outside_278
+  - first:
+      213: 5496040468405320338
+    second: houses_outside_279
+  - first:
+      213: -7826358056053219845
+    second: houses_outside_280
+  - first:
+      213: 6077836933584138979
+    second: houses_outside_281
+  - first:
+      213: -8847905830557890251
+    second: houses_outside_282
+  - first:
+      213: 4945233362975731178
+    second: houses_outside_283
+  - first:
+      213: 199321967276070899
+    second: houses_outside_284
+  - first:
+      213: -9110765496658883335
+    second: houses_outside_285
+  - first:
+      213: 3942526919895188892
+    second: houses_outside_286
+  - first:
+      213: 8177693820281834122
+    second: houses_outside_287
+  - first:
+      213: 5315598849566186993
+    second: houses_outside_288
+  - first:
+      213: 8641288438424802501
+    second: houses_outside_289
+  - first:
+      213: 2632907416071310055
+    second: houses_outside_290
+  - first:
+      213: -8100992007365926095
+    second: houses_outside_291
+  - first:
+      213: -3057043688518738409
+    second: houses_outside_292
+  - first:
+      213: -1041611850030288309
+    second: houses_outside_293
+  - first:
+      213: 4368469712104120305
+    second: houses_outside_294
+  - first:
+      213: 6238996635652312405
+    second: houses_outside_295
+  - first:
+      213: -5652849015098960443
+    second: houses_outside_296
+  - first:
+      213: 1968017877161074546
+    second: houses_outside_297
+  - first:
+      213: -4826717386512604111
+    second: houses_outside_298
+  - first:
+      213: 2309246330096503862
+    second: houses_outside_299
+  - first:
+      213: -8953747429377517960
+    second: houses_outside_300
+  - first:
+      213: -6898643471706681041
+    second: houses_outside_301
+  - first:
+      213: 6222855791194516257
+    second: houses_outside_302
+  - first:
+      213: 1436881489704475292
+    second: houses_outside_303
+  - first:
+      213: 3861346842772734092
+    second: houses_outside_304
+  - first:
+      213: -2498650336303934866
+    second: houses_outside_305
+  - first:
+      213: -2827885529515457793
+    second: houses_outside_306
+  - first:
+      213: 1478356806762737890
+    second: houses_outside_307
+  - first:
+      213: 8490360890494762606
+    second: houses_outside_308
+  - first:
+      213: -3767410382109798594
+    second: houses_outside_309
+  - first:
+      213: -6027687196759254327
+    second: houses_outside_310
+  - first:
+      213: 3673624799524065840
+    second: houses_outside_311
+  - first:
+      213: -4779647858600258916
+    second: houses_outside_312
+  - first:
+      213: -2682604891014775515
+    second: houses_outside_313
+  - first:
+      213: 9152790170380118980
+    second: houses_outside_314
+  - first:
+      213: 8025091074383485647
+    second: houses_outside_315
+  - first:
+      213: 8780160188272577877
+    second: houses_outside_316
+  - first:
+      213: -5978592649022131584
+    second: houses_outside_317
+  - first:
+      213: -3495516465977683818
+    second: houses_outside_318
+  - first:
+      213: -4512798058315162883
+    second: houses_outside_319
+  - first:
+      213: 6989900617892462138
+    second: houses_outside_320
+  - first:
+      213: -8905394706460816113
+    second: houses_outside_321
+  - first:
+      213: 7925718781294066553
+    second: houses_outside_322
+  - first:
+      213: -5715626416997341551
+    second: houses_outside_323
+  - first:
+      213: -5027217594424461935
+    second: houses_outside_324
+  - first:
+      213: -8848394911717363554
+    second: houses_outside_325
+  - first:
+      213: 6251683290689220359
+    second: houses_outside_326
+  - first:
+      213: 7143698549963032362
+    second: houses_outside_327
+  - first:
+      213: 3535256003015818787
+    second: houses_outside_328
+  - first:
+      213: 7560321270191314773
+    second: houses_outside_329
+  - first:
+      213: 8340966956597072115
+    second: houses_outside_330
+  - first:
+      213: 3995722459868523650
+    second: houses_outside_331
+  - first:
+      213: -6184416634465151622
+    second: houses_outside_332
+  - first:
+      213: 3122170997769701424
+    second: houses_outside_333
+  - first:
+      213: 5615100593532962127
+    second: houses_outside_334
+  - first:
+      213: -474265759743226776
+    second: houses_outside_335
+  - first:
+      213: 6241322425600377957
+    second: houses_outside_336
+  - first:
+      213: -8875139127042930416
+    second: houses_outside_337
+  - first:
+      213: 804402865520918519
+    second: houses_outside_338
+  - first:
+      213: 1470257220868468080
+    second: houses_outside_339
+  - first:
+      213: -7938228124923970393
+    second: houses_outside_340
+  - first:
+      213: 2022083417912883987
+    second: houses_outside_341
+  - first:
+      213: -2436017967875738245
+    second: houses_outside_342
+  - first:
+      213: 6758541104302932342
+    second: houses_outside_343
+  - first:
+      213: 5664068809454653558
+    second: houses_outside_344
+  - first:
+      213: -5840092578303907978
+    second: houses_outside_345
+  - first:
+      213: 3220363444059828936
+    second: houses_outside_346
+  - first:
+      213: -2626138674943608641
+    second: houses_outside_347
+  - first:
+      213: 2763143587882556107
+    second: houses_outside_348
+  - first:
+      213: -7175492531446552461
+    second: houses_outside_349
+  - first:
+      213: -5593726613952007236
+    second: houses_outside_350
+  - first:
+      213: 9054343047444036245
+    second: houses_outside_351
+  - first:
+      213: -4537132661048466635
+    second: houses_outside_352
+  - first:
+      213: 2777033573801057874
+    second: houses_outside_353
+  - first:
+      213: -3606336178210645781
+    second: houses_outside_354
+  - first:
+      213: -2213745928459821365
+    second: houses_outside_355
+  - first:
+      213: 1995383231325968680
+    second: houses_outside_356
+  - first:
+      213: 3444242754394042822
+    second: houses_outside_357
+  - first:
+      213: 6442025176472660083
+    second: houses_outside_358
+  - first:
+      213: -5733162034657296310
+    second: houses_outside_359
+  - first:
+      213: 286219265091906291
+    second: houses_outside_360
+  - first:
+      213: 7488438000989687444
+    second: houses_outside_361
+  - first:
+      213: 7480341707177915978
+    second: houses_outside_362
+  - first:
+      213: 1757246468725482743
+    second: houses_outside_363
+  - first:
+      213: -7313089628804566019
+    second: houses_outside_364
+  - first:
+      213: -903728295303428497
+    second: houses_outside_365
+  - first:
+      213: 436331908454330087
+    second: houses_outside_366
+  - first:
+      213: -1382291673443124732
+    second: houses_outside_367
+  - first:
+      213: -6962269660849365168
+    second: houses_outside_368
+  - first:
+      213: 2492949761498161990
+    second: houses_outside_369
+  - first:
+      213: -1510715208914574491
+    second: houses_outside_370
+  - first:
+      213: -5102844099249498371
+    second: houses_outside_371
+  - first:
+      213: 8489583412977249851
+    second: houses_outside_372
+  - first:
+      213: 7786117663052647404
+    second: houses_outside_373
+  - first:
+      213: -297671919050279861
+    second: houses_outside_374
+  - first:
+      213: -3820092345185558020
+    second: houses_outside_375
+  - first:
+      213: 5154942770858776648
+    second: houses_outside_376
+  - first:
+      213: 1010979840095672736
+    second: houses_outside_377
+  - first:
+      213: -2060159449447028471
+    second: houses_outside_378
+  - first:
+      213: -5128623530824986298
+    second: houses_outside_379
+  - first:
+      213: 3405552587505980671
+    second: houses_outside_380
+  - first:
+      213: 1578422797476501794
+    second: houses_outside_381
+  - first:
+      213: -3918752950322178423
+    second: houses_outside_382
+  - first:
+      213: -6435255691597469126
+    second: houses_outside_383
+  - first:
+      213: -4465109925313248361
+    second: houses_outside_384
+  - first:
+      213: -5506479794914232362
+    second: houses_outside_385
+  - first:
+      213: -3382029094357443401
+    second: houses_outside_386
+  - first:
+      213: 2622766766050909203
+    second: houses_outside_387
+  - first:
+      213: -6462030248851202259
+    second: houses_outside_388
+  - first:
+      213: -7593824017062384691
+    second: houses_outside_389
+  - first:
+      213: -2948055566935507965
+    second: houses_outside_390
+  - first:
+      213: 384026846432424045
+    second: houses_outside_391
+  - first:
+      213: -3679894435238154457
+    second: houses_outside_392
+  - first:
+      213: -6494229497673373155
+    second: houses_outside_393
+  - first:
+      213: 6163935688708918976
+    second: houses_outside_394
+  - first:
+      213: -8376094464988311146
+    second: houses_outside_395
+  - first:
+      213: 2299892166992125315
+    second: houses_outside_396
+  - first:
+      213: 1527558739843242674
+    second: houses_outside_397
+  - first:
+      213: 1112415698874832564
+    second: houses_outside_398
+  - first:
+      213: -5090608349813222004
+    second: houses_outside_399
+  - first:
+      213: 4375228276332371214
+    second: houses_outside_400
+  - first:
+      213: 9165311464472642126
+    second: houses_outside_401
+  - first:
+      213: -5593044547459503923
+    second: houses_outside_402
+  - first:
+      213: -7350606520200710191
+    second: houses_outside_403
+  - first:
+      213: 8779915941826403314
+    second: houses_outside_404
+  - first:
+      213: -4670765665189885632
+    second: houses_outside_405
+  - first:
+      213: 5427005631274562119
+    second: houses_outside_406
+  - first:
+      213: 8663792938681327532
+    second: houses_outside_407
+  - first:
+      213: 6999258185138773888
+    second: houses_outside_408
+  - first:
+      213: 4655544880727886038
+    second: houses_outside_409
+  - first:
+      213: 7796751503728510376
+    second: houses_outside_410
+  - first:
+      213: -6504168674749686527
+    second: houses_outside_411
+  - first:
+      213: -537100925782965232
+    second: houses_outside_412
+  - first:
+      213: -2895944236735875595
+    second: houses_outside_413
+  - first:
+      213: 6107193637897900178
+    second: houses_outside_414
+  - first:
+      213: 4343043713284440198
+    second: houses_outside_415
+  - first:
+      213: 8048615835019990134
+    second: houses_outside_416
+  - first:
+      213: 5848814986682425602
+    second: houses_outside_417
+  - first:
+      213: -627222558227326020
+    second: houses_outside_418
+  - first:
+      213: 1630034189677256526
+    second: houses_outside_419
+  - first:
+      213: -699959883485469735
+    second: houses_outside_420
+  - first:
+      213: -2298825779799996763
+    second: houses_outside_421
+  - first:
+      213: -6411176844146308104
+    second: houses_outside_422
+  - first:
+      213: 7691206302307202379
+    second: houses_outside_423
+  - first:
+      213: 987539935124030830
+    second: houses_outside_424
+  - first:
+      213: 1377674274771925161
+    second: houses_outside_425
+  - first:
+      213: -6216311515192867186
+    second: houses_outside_426
+  - first:
+      213: 6778295547640361187
+    second: houses_outside_427
+  - first:
+      213: -3330342810105727429
+    second: houses_outside_428
+  - first:
+      213: 588443747243543351
+    second: houses_outside_429
+  - first:
+      213: 8810063793649558454
+    second: houses_outside_430
+  - first:
+      213: 9038187572878642362
+    second: houses_outside_431
+  - first:
+      213: 6463559629643909675
+    second: houses_outside_432
+  - first:
+      213: 2676184044770104302
+    second: houses_outside_433
+  - first:
+      213: -7054175900667247530
+    second: houses_outside_434
+  - first:
+      213: 9122312516749125992
+    second: houses_outside_435
+  - first:
+      213: -8841594937419503877
+    second: houses_outside_436
+  - first:
+      213: -1513396758485059932
+    second: houses_outside_437
+  - first:
+      213: -8818303591149224391
+    second: houses_outside_438
+  - first:
+      213: 4224767640332540288
+    second: houses_outside_439
+  - first:
+      213: -7425086187879307663
+    second: houses_outside_440
+  - first:
+      213: 3256120610941161346
+    second: houses_outside_441
+  - first:
+      213: 1321481820516772048
+    second: houses_outside_442
+  - first:
+      213: 448025750774635077
+    second: houses_outside_443
+  - first:
+      213: 5562056519469327100
+    second: houses_outside_444
+  - first:
+      213: 5680645349655400931
+    second: houses_outside_445
+  - first:
+      213: -8793730097005969305
+    second: houses_outside_446
+  - first:
+      213: 4288568664012530137
+    second: houses_outside_447
+  - first:
+      213: 595082584056457135
+    second: houses_outside_448
+  - first:
+      213: -9216765720633576309
+    second: houses_outside_449
+  - first:
+      213: 2757441048940958690
+    second: houses_outside_450
+  - first:
+      213: -3056877988118095995
+    second: houses_outside_451
+  - first:
+      213: 1001107632580541008
+    second: houses_outside_452
+  - first:
+      213: 1053758984305511731
+    second: houses_outside_453
+  - first:
+      213: 9143850587045696930
+    second: houses_outside_454
+  - first:
+      213: -6550539096636517846
+    second: houses_outside_455
+  - first:
+      213: -7929402026673728990
+    second: houses_outside_456
+  - first:
+      213: -2485081895391333878
+    second: houses_outside_457
+  - first:
+      213: -8516162676932454258
+    second: houses_outside_458
+  - first:
+      213: 3369204827015312226
+    second: houses_outside_459
+  - first:
+      213: -4126805856162305542
+    second: houses_outside_460
+  - first:
+      213: 874042542804779383
+    second: houses_outside_461
+  - first:
+      213: 2127998543308196128
+    second: houses_outside_462
+  - first:
+      213: -2746920471107482544
+    second: houses_outside_463
+  - first:
+      213: 7324773387690486562
+    second: houses_outside_464
+  - first:
+      213: 81526308087818562
+    second: houses_outside_465
+  - first:
+      213: -9121843085916665433
+    second: houses_outside_466
+  - first:
+      213: -3432044643890017280
+    second: houses_outside_467
+  - first:
+      213: 1728527440657550266
+    second: houses_outside_468
+  - first:
+      213: -4474911577146084646
+    second: houses_outside_469
+  - first:
+      213: -6109901308161404771
+    second: houses_outside_470
+  - first:
+      213: 1482069652374024883
+    second: houses_outside_471
+  - first:
+      213: -2199210243405998051
+    second: houses_outside_472
+  - first:
+      213: -5595671855910117392
+    second: houses_outside_473
+  - first:
+      213: 3025830960490938748
+    second: houses_outside_474
+  - first:
+      213: 1811477407723516343
+    second: houses_outside_475
+  - first:
+      213: -8871022672739308997
+    second: houses_outside_476
+  - first:
+      213: 4227049468647159445
+    second: houses_outside_477
+  - first:
+      213: -1588133915619312590
+    second: houses_outside_478
+  - first:
+      213: -5328113190715719083
+    second: houses_outside_479
+  - first:
+      213: 5284643636146081505
+    second: houses_outside_480
+  - first:
+      213: -6356039660613030081
+    second: houses_outside_481
+  - first:
+      213: -2802985774218622282
+    second: houses_outside_482
+  - first:
+      213: 294679190768232944
+    second: houses_outside_483
+  - first:
+      213: -3292350371015332120
+    second: houses_outside_484
+  - first:
+      213: -6235852275627951527
+    second: houses_outside_485
+  - first:
+      213: 3739956905588011475
+    second: houses_outside_486
+  - first:
+      213: -5346475666401749834
+    second: houses_outside_487
+  - first:
+      213: -2699804592662854775
+    second: houses_outside_488
+  - first:
+      213: 1948808830549804095
+    second: houses_outside_489
+  - first:
+      213: -8031937224003608490
+    second: houses_outside_490
+  - first:
+      213: -6954688404814877278
+    second: houses_outside_491
+  - first:
+      213: 9150998350520114729
+    second: houses_outside_492
+  - first:
+      213: 1825604566366953644
+    second: houses_outside_493
+  - first:
+      213: -4290006167743344789
+    second: houses_outside_494
+  - first:
+      213: -8003498853759824980
+    second: houses_outside_495
+  - first:
+      213: 3744939196616716908
+    second: houses_outside_496
+  - first:
+      213: -5234646169329146714
+    second: houses_outside_497
+  - first:
+      213: 8328577186300299488
+    second: houses_outside_498
+  - first:
+      213: -5324538913072043516
+    second: houses_outside_499
+  - first:
+      213: -7944789196986006933
+    second: houses_outside_500
+  - first:
+      213: -1014258935597731603
+    second: houses_outside_501
+  - first:
+      213: -6286864678958167377
+    second: houses_outside_502
+  - first:
+      213: 2943809463047647794
+    second: houses_outside_503
+  - first:
+      213: 8613124636419441499
+    second: houses_outside_504
+  - first:
+      213: 7621453491964545804
+    second: houses_outside_505
+  - first:
+      213: 5000014535701233234
+    second: houses_outside_506
+  - first:
+      213: 6945486912809981780
+    second: houses_outside_507
+  - first:
+      213: -8711221530264471736
+    second: houses_outside_508
+  - first:
+      213: 6093382612725206097
+    second: houses_outside_509
+  - first:
+      213: 7705235691737569094
+    second: houses_outside_510
+  - first:
+      213: 5189309505084722438
+    second: houses_outside_511
+  - first:
+      213: -215711490367901480
+    second: houses_outside_512
+  - first:
+      213: 1713028065372233836
+    second: houses_outside_513
+  - first:
+      213: -8909871608518296707
+    second: houses_outside_514
+  - first:
+      213: 5438677973185866235
+    second: houses_outside_515
+  - first:
+      213: -3700709939379535721
+    second: houses_outside_516
+  - first:
+      213: -5700226581068092877
+    second: houses_outside_517
+  - first:
+      213: -6328734646379575939
+    second: houses_outside_518
+  - first:
+      213: -3211910024189697194
+    second: houses_outside_519
+  - first:
+      213: -8851372457937007878
+    second: houses_outside_520
+  - first:
+      213: -5354421660517814889
+    second: houses_outside_521
+  - first:
+      213: -1012383564548008621
+    second: houses_outside_522
+  - first:
+      213: -550847628172589798
+    second: houses_outside_523
+  - first:
+      213: -8569393089123800053
+    second: houses_outside_524
+  - first:
+      213: 9215159786540538990
+    second: houses_outside_525
+  - first:
+      213: -1576451283798675710
+    second: houses_outside_526
+  - first:
+      213: -5324964225237355754
+    second: houses_outside_527
+  - first:
+      213: -5693239375750398909
+    second: houses_outside_528
+  - first:
+      213: 6894161968879661376
+    second: houses_outside_529
+  - first:
+      213: -4898171147951224441
+    second: houses_outside_530
+  - first:
+      213: 7324449737740889381
+    second: houses_outside_531
+  - first:
+      213: 5065490881827862027
+    second: houses_outside_532
+  - first:
+      213: -4514921954913554284
+    second: houses_outside_533
+  - first:
+      213: -3741328067322983176
+    second: houses_outside_534
+  - first:
+      213: -6827465806420771807
+    second: houses_outside_535
+  - first:
+      213: 4346665538157698778
+    second: houses_outside_536
+  - first:
+      213: -821654259004189800
+    second: houses_outside_537
+  - first:
+      213: 2306315875219462477
+    second: houses_outside_538
+  - first:
+      213: -6042296220409575365
+    second: houses_outside_539
+  - first:
+      213: -2527019224495623644
+    second: houses_outside_540
+  - first:
+      213: -2092179574866640482
+    second: houses_outside_541
+  - first:
+      213: 2725422279543709958
+    second: houses_outside_542
+  - first:
+      213: 3049776899883138082
+    second: houses_outside_543
+  - first:
+      213: 7353805783080186752
+    second: houses_outside_544
+  - first:
+      213: 1367978001607860570
+    second: houses_outside_545
+  - first:
+      213: -1039000305822102523
+    second: houses_outside_546
+  - first:
+      213: -4113689866081587096
+    second: houses_outside_547
+  - first:
+      213: 2913691870010143010
+    second: houses_outside_548
+  - first:
+      213: -6661370275668445743
+    second: houses_outside_549
+  - first:
+      213: 8089027488614256249
+    second: houses_outside_550
+  - first:
+      213: -7594979881214116283
+    second: houses_outside_551
+  - first:
+      213: 2207201780626268137
+    second: houses_outside_552
+  - first:
+      213: 1334239891872281758
+    second: houses_outside_553
+  - first:
+      213: 2404032964751616931
+    second: houses_outside_554
+  - first:
+      213: -7433171498750068431
+    second: houses_outside_555
+  - first:
+      213: 2298093310729394787
+    second: houses_outside_556
+  - first:
+      213: 2659632604233648923
+    second: houses_outside_557
+  - first:
+      213: 5876659023535053260
+    second: houses_outside_558
+  - first:
+      213: 6545029254870442569
+    second: houses_outside_559
+  - first:
+      213: -1131324720325326769
+    second: houses_outside_560
+  - first:
+      213: 8464804311283153613
+    second: houses_outside_561
+  - first:
+      213: 4277489918913261758
+    second: houses_outside_562
+  - first:
+      213: -7275815260436452410
+    second: houses_outside_563
+  - first:
+      213: -790215589529617663
+    second: houses_outside_564
+  - first:
+      213: -8844245215539830284
+    second: houses_outside_565
+  - first:
+      213: 548099894477534741
+    second: houses_outside_566
+  - first:
+      213: 4984352425581571270
+    second: houses_outside_567
+  - first:
+      213: 6103394752482962705
+    second: houses_outside_568
+  - first:
+      213: -2957883816359753876
+    second: houses_outside_569
+  - first:
+      213: 2169272445778343901
+    second: houses_outside_570
+  - first:
+      213: -3963893765161209878
+    second: houses_outside_571
+  - first:
+      213: -1884244707384732453
+    second: houses_outside_572
+  - first:
+      213: -7712790911470532219
+    second: houses_outside_573
+  - first:
+      213: 5587694991119558980
+    second: houses_outside_574
+  - first:
+      213: -1465185533973201118
+    second: houses_outside_575
+  - first:
+      213: -8021070179191623684
+    second: houses_outside_576
+  - first:
+      213: 3539652131316147863
+    second: houses_outside_577
+  - first:
+      213: -2957754241972163026
+    second: houses_outside_578
+  - first:
+      213: -4521057041331383223
+    second: houses_outside_579
+  - first:
+      213: -3743998378716809384
+    second: houses_outside_580
+  - first:
+      213: -6638371874015682318
+    second: houses_outside_581
+  - first:
+      213: -1690366961101936707
+    second: houses_outside_582
+  - first:
+      213: 6774834389482738928
+    second: houses_outside_583
+  - first:
+      213: 7094795400654060268
+    second: houses_outside_584
+  - first:
+      213: -233642347148270077
+    second: houses_outside_585
+  - first:
+      213: -799088536103019961
+    second: houses_outside_586
+  - first:
+      213: 5566108738123632836
+    second: houses_outside_587
+  - first:
+      213: 1538776438168889347
+    second: houses_outside_588
+  - first:
+      213: -2360985288196699105
+    second: houses_outside_589
+  - first:
+      213: 7881114205449881879
+    second: houses_outside_590
+  - first:
+      213: 4770925395032129355
+    second: houses_outside_591
+  - first:
+      213: -2151421605949891823
+    second: houses_outside_592
+  - first:
+      213: -8051970561005406949
+    second: houses_outside_593
+  - first:
+      213: -6058699217998330405
+    second: houses_outside_594
+  - first:
+      213: 7632731245607873022
+    second: houses_outside_595
+  - first:
+      213: -4316764396589690701
+    second: houses_outside_596
+  - first:
+      213: -5538645122411892953
+    second: houses_outside_597
+  - first:
+      213: 3615237751039505077
+    second: houses_outside_598
+  - first:
+      213: -5466974317217224356
+    second: houses_outside_599
+  - first:
+      213: -7911062473394547664
+    second: houses_outside_600
+  - first:
+      213: -7044238491287429977
+    second: houses_outside_601
+  - first:
+      213: 6119231577521839853
+    second: houses_outside_602
+  - first:
+      213: 3352506689413964642
+    second: houses_outside_603
+  - first:
+      213: -4999287360437158935
+    second: houses_outside_604
+  - first:
+      213: -3138241019038489484
+    second: houses_outside_605
+  - first:
+      213: -31938511078077315
+    second: houses_outside_606
+  - first:
+      213: 7100704191688885990
+    second: houses_outside_607
+  - first:
+      213: 815278096596419715
+    second: houses_outside_608
+  - first:
+      213: 6367977188251892064
+    second: houses_outside_609
+  - first:
+      213: 1230507501067138399
+    second: houses_outside_610
+  - first:
+      213: -1406496671141100761
+    second: houses_outside_611
+  - first:
+      213: 707189119729561450
+    second: houses_outside_612
+  - first:
+      213: 8807287122290312452
+    second: houses_outside_613
+  - first:
+      213: -1338969427821911620
+    second: houses_outside_614
+  - first:
+      213: 555969660565116547
+    second: houses_outside_615
+  - first:
+      213: 8766530308288391256
+    second: houses_outside_616
+  - first:
+      213: -136408407923602006
+    second: houses_outside_617
+  - first:
+      213: 9053125393045807196
+    second: houses_outside_618
+  - first:
+      213: 439122819434614017
+    second: houses_outside_619
+  - first:
+      213: -1389077348684177196
+    second: houses_outside_620
+  - first:
+      213: -726619891085507924
+    second: houses_outside_621
+  - first:
+      213: -7214611479221593257
+    second: houses_outside_622
+  - first:
+      213: 2126035516188663411
+    second: houses_outside_623
+  - first:
+      213: -7527778117420541211
+    second: houses_outside_624
+  - first:
+      213: 2744810807479339666
+    second: houses_outside_625
+  - first:
+      213: 6488621025273357341
+    second: houses_outside_626
+  - first:
+      213: -5895900340178325349
+    second: houses_outside_627
+  - first:
+      213: 165305730069350044
+    second: houses_outside_628
+  - first:
+      213: -3976253351562831767
+    second: houses_outside_629
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +1922,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +1931,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
-  spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +1958,31 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +1991,2422 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: houses_outside_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ea54b7ed47ff50800000000000000
+      internalID: 6915081410409326122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 26
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4115320aa06c37d0800000000000000
+      internalID: -2937366573654666934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ad0a0fc5286d330800000000000000
+      internalID: 3735316276636080663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 928
+        width: 26
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb9fd4055f157b50800000000000000
+      internalID: 6590208079741033449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b67e4336a8d3770800000000000000
+      internalID: 8592175822786751316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 928
+        width: 26
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ca2757e378ba10800000000000000
+      internalID: 1925416278137948088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3638078ebbe6360800000000000000
+      internalID: 7164870664187503615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 928
+        width: 26
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7257017a198539a0800000000000000
+      internalID: -6253941760875605380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 992
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064729882a66aa420800000000000000
+      internalID: 2642036979668251744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_9
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 992
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e6fc8cb8e96e80800000000000000
+      internalID: -8184754951252679228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a0e25f660843b0800000000000000
+      internalID: -5528161467395693137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_11
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 960
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a49a573130ced660800000000000000
+      internalID: 7412573354313028777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0d8d11c7c2bb530800000000000000
+      internalID: 3871737216042061995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 960
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c026528af50280800000000000000
+      internalID: -9077574036197686314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 881
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb1a6f5ce8aa0b30800000000000000
+      internalID: 4254398531171392509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 881
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828ce8a570e060d00800000000000000
+      internalID: 938452997100193832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 881
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a154ca4ce1a019e0800000000000000
+      internalID: -1652643027006238304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 881
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2a4df7d29d15d50800000000000000
+      internalID: 6724394508082258623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_18
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 875
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5dd79273b393330800000000000000
+      internalID: 3691046477712184799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_19
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 875
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4946025205a1460800000000000000
+      internalID: 7213165873574745277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_20
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 875
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cff135379a145a0800000000000000
+      internalID: -6538758871184311203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_21
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 875
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013478102e547d250800000000000000
+      internalID: 5969316668093448976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 896
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de084c845380af0800000000000000
+      internalID: -430035177763181295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_23
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 896
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f0b00025b2f78b0800000000000000
+      internalID: -5152351817500520629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 757
+        width: 132
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f6579d5edced620800000000000000
+      internalID: 2800902405350584192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 757
+        width: 132
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a6657d3ad8683a0800000000000000
+      internalID: -6663482863816119684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 817
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc3909a4e97c0480800000000000000
+      internalID: -8931629937987076909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 817
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70282bf656efdd90800000000000000
+      internalID: -7070679628693102466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 817
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696dc816359585cd0800000000000000
+      internalID: -2569205372761090410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 817
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e23ea3b8aa78a30800000000000000
+      internalID: 4217527091020902043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_30
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 811
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f0ac06e21696c0800000000000000
+      internalID: -4137098428429569002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 811
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aed9bc136431fc00800000000000000
+      internalID: 932584198130753185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_32
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 811
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e28f402afa7de590800000000000000
+      internalID: -7643317777875369247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_33
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 811
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404d4e6590e82fb80800000000000000
+      internalID: -8362465387309902844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 661
+        width: 132
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fd036a3f01e6b70800000000000000
+      internalID: 8894064952754626450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 661
+        width: 132
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717aac566f0857970800000000000000
+      internalID: 8752043246622517015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9779b07b7bef45030800000000000000
+      internalID: 3482688476867696505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 20
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16bd1ddbc0fb9970800000000000000
+      internalID: 8762862258358171163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a34c2c256ff9e0d0800000000000000
+      internalID: -3392900034249079902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 20
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df135f4199c410a40800000000000000
+      internalID: 5332627654148698621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_40
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec57f1407e85b4a0800000000000000
+      internalID: -6578195067910529818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 608
+        width: 20
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01bc71cecaad09c0800000000000000
+      internalID: -3959320692402638578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_42
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf95d3848bab1c0800000000000000
+      internalID: -4487071458314814279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_43
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 608
+        width: 20
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d5232feccc80610800000000000000
+      internalID: 1587744057846816049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e68abe76a182600800000000000000
+      internalID: 443633596933631532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 614
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d5b4f8ba84246b0800000000000000
+      internalID: -5313604708663075502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 614
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f773e663f1fb08cb0800000000000000
+      internalID: -4863677456782051457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 614
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbba06f7fca628dc0800000000000000
+      internalID: -3638228109534123076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 615
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a87f3a3431030c00800000000000000
+      internalID: 865536877212432547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 615
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2e76c2d755fa0d0800000000000000
+      internalID: -3409412396791897429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92acb12551f223d70800000000000000
+      internalID: 9021324772194896425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 582
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ded4cc3089ada50800000000000000
+      internalID: 6546712150416420168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 582
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36ce2777d09a4650800000000000000
+      internalID: 6217941490630313533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 582
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82bb095f25519d80800000000000000
+      internalID: -8245715780892904817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 579
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b5fa56dc5aed3a0800000000000000
+      internalID: -6638686499104662658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 579
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888a7292ec56b8c60800000000000000
+      internalID: 7821457113987131528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_56
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 468
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc1035b2e69c31e0800000000000000
+      internalID: -2216731016126522113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_57
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 468
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa16835849f584560800000000000000
+      internalID: 7298188287648752042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_58
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 468
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9070faba18698b00800000000000000
+      internalID: 831310070241325213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_59
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 468
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5262555551e91c0800000000000000
+      internalID: -4495131921824209484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035aa7eeb5dc8a7f0800000000000000
+      internalID: -601004755527228112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 550
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a8e9f911cfdc90800000000000000
+      internalID: -7142778166675201390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 550
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a21dc4e3affcaa0800000000000000
+      internalID: -6138412621599004016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 550
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567d6ea0f2d3b370800000000000000
+      internalID: 8337239266353313372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 547
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea386c1e1c5c1b0800000000000000
+      internalID: -5636886183141986684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_65
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 547
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803b302ee9ff6d7e0800000000000000
+      internalID: -1740923148070309112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d5c262030cbefa0800000000000000
+      internalID: -5770307184513753835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 518
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb6dd1d3fb622440800000000000000
+      internalID: 4909605238729436156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 518
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5301b4e82c111c0800000000000000
+      internalID: -4534629433384880726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 518
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923a8029e69d6e550800000000000000
+      internalID: 6189873806786994985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 515
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee918d2a2d07a5d0800000000000000
+      internalID: -3051455747716964634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_71
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 515
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7874c315cdf2bc0800000000000000
+      internalID: -3805580918642997266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0aafb4be4d5d740800000000000000
+      internalID: 5176277453789372597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 486
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7a15e621515aa0800000000000000
+      internalID: -6174064386653913736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ac55dfd292ce330800000000000000
+      internalID: 3741410667938564621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4b0c69791335d0800000000000000
+      internalID: -3084093310524240607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 490
+        width: 96
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e748888021f3410800000000000000
+      internalID: 1458904632150752777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc23367552f9c770800000000000000
+      internalID: 8631696609701473523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea755ce5bffc897f0800000000000000
+      internalID: -605505471347599442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56c0ffcdf12cb160800000000000000
+      internalID: 7042541291299718746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ee1fd31ddd76d0800000000000000
+      internalID: -2990991500086681234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 453
+        width: 96
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a0e34aa5677a850800000000000000
+      internalID: 6388204728123001398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9549c61caa35c0800000000000000
+      internalID: -4234883285722489736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0038c7e8f6bdd7d40800000000000000
+      internalID: 5583860385187660544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25adadf305e3d9860800000000000000
+      internalID: 7538249865677691474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7ac8ab0959cfeb0800000000000000
+      internalID: -4684705063534549038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_86
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431aea0fed6cfd7c0800000000000000
+      internalID: -4044295279532400332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_87
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90a8f73d63fe6e60800000000000000
+      internalID: 7957565242026270877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_88
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd746620bebcf81c0800000000000000
+      internalID: -4499153292501825569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_89
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cf30acab40956e0800000000000000
+      internalID: -1848440971759190935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_90
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dc7c803cbccd940800000000000000
+      internalID: 5322352898171456791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_91
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6684a5e901061d3f0800000000000000
+      internalID: -877814827868075930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_92
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd885a83e5d7933b0800000000000000
+      internalID: -5532252823617173281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_93
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6069c95fe80a167d0800000000000000
+      internalID: -2926881746947631610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb774954bcc316a0800000000000000
+      internalID: -6479610363891975185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41d60d59edfdb810800000000000000
+      internalID: 1782860206238519631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_96
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5324029a274a5e0800000000000000
+      internalID: -1899267072127257144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066f8b9adc271c010800000000000000
+      internalID: 1207372402753336928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 256
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e154c3d4870d7c00800000000000000
+      internalID: 899883767613903337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac2b1076a35d4550800000000000000
+      internalID: 6146661040741100711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64e1ca814545990800000000000000
+      internalID: -7398195822919268667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f7854ce5f9dfb00800000000000000
+      internalID: 864021932894879598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 96
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9b1411312b5bea0800000000000000
+      internalID: -5857579945361819195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 117
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc21212ab9068aa0800000000000000
+      internalID: -6159224745358185294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_104
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 238
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5ef36997ccb2ee0800000000000000
+      internalID: -1284708446100265549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_105
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 238
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e18da542de375c10800000000000000
+      internalID: 2042170028868862432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_106
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 128
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a66fbcb337d8ed0800000000000000
+      internalID: -2410143524911158753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_107
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 192
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d11a4473dcf7b30800000000000000
+      internalID: 4287371007538306371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_108
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 197
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ead7598c153fae0800000000000000
+      internalID: -1516778727550374321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_109
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 197
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d391e2e9f8140ec0800000000000000
+      internalID: -3601726340457196588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_110
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 192
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a8fdc9a35afeb50800000000000000
+      internalID: 6624695248043870743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_111
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 133
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6f09ef27a6cd3e0800000000000000
+      internalID: -2027628690093836580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 133
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93067f4a653302a40800000000000000
+      internalID: 5341325605289287737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 133
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e3e8634adcc3760800000000000000
+      internalID: 7439046789682839150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457bb2b94243170e0800000000000000
+      internalID: -2273979005018589356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

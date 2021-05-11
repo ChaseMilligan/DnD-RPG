@@ -1,7 +1,1951 @@
 fileFormatVersion: 2
 guid: adf4accbfc97fd94bb8fe26d755261e0
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4965132747741579460
+    second: houses_outside_shadows_0
+  - first:
+      213: -5124257616613910067
+    second: houses_outside_shadows_1
+  - first:
+      213: 1799656884216157898
+    second: houses_outside_shadows_2
+  - first:
+      213: 6813043079560033165
+    second: houses_outside_shadows_3
+  - first:
+      213: 1440623814675698978
+    second: houses_outside_shadows_4
+  - first:
+      213: 8866006091314110519
+    second: houses_outside_shadows_5
+  - first:
+      213: 1783249729199645440
+    second: houses_outside_shadows_6
+  - first:
+      213: 2179581270145750671
+    second: houses_outside_shadows_7
+  - first:
+      213: 2787464995366920498
+    second: houses_outside_shadows_8
+  - first:
+      213: -9038599097486198907
+    second: houses_outside_shadows_9
+  - first:
+      213: -8226799830165306661
+    second: houses_outside_shadows_10
+  - first:
+      213: -4826552559692626391
+    second: houses_outside_shadows_11
+  - first:
+      213: -393913227254464603
+    second: houses_outside_shadows_12
+  - first:
+      213: 5988011512040149517
+    second: houses_outside_shadows_13
+  - first:
+      213: -5897055170047811574
+    second: houses_outside_shadows_14
+  - first:
+      213: -6151700066971183119
+    second: houses_outside_shadows_15
+  - first:
+      213: 2296718005487233246
+    second: houses_outside_shadows_16
+  - first:
+      213: -450663905374586016
+    second: houses_outside_shadows_17
+  - first:
+      213: 8759517917050263394
+    second: houses_outside_shadows_18
+  - first:
+      213: -3141055736770728629
+    second: houses_outside_shadows_19
+  - first:
+      213: 3730181889301659740
+    second: houses_outside_shadows_20
+  - first:
+      213: -8824803560159130741
+    second: houses_outside_shadows_21
+  - first:
+      213: -6565962227861580547
+    second: houses_outside_shadows_22
+  - first:
+      213: 1779709867224245963
+    second: houses_outside_shadows_23
+  - first:
+      213: -8300944585347287675
+    second: houses_outside_shadows_24
+  - first:
+      213: 829906404358894405
+    second: houses_outside_shadows_25
+  - first:
+      213: -2380430165530693952
+    second: houses_outside_shadows_26
+  - first:
+      213: 7693620441758627608
+    second: houses_outside_shadows_27
+  - first:
+      213: -7936170948006894974
+    second: houses_outside_shadows_28
+  - first:
+      213: -183900654490186516
+    second: houses_outside_shadows_29
+  - first:
+      213: 6584285222925211813
+    second: houses_outside_shadows_30
+  - first:
+      213: -1588891388479807681
+    second: houses_outside_shadows_31
+  - first:
+      213: 4365443486358369645
+    second: houses_outside_shadows_32
+  - first:
+      213: -6713468603233894718
+    second: houses_outside_shadows_33
+  - first:
+      213: -812775306260066674
+    second: houses_outside_shadows_34
+  - first:
+      213: 2216420090319253452
+    second: houses_outside_shadows_35
+  - first:
+      213: -3408830437623970510
+    second: houses_outside_shadows_36
+  - first:
+      213: -4056933970827636842
+    second: houses_outside_shadows_37
+  - first:
+      213: -4575541785619894768
+    second: houses_outside_shadows_38
+  - first:
+      213: -4043868162686964196
+    second: houses_outside_shadows_39
+  - first:
+      213: -8165633806765338172
+    second: houses_outside_shadows_40
+  - first:
+      213: -1957373092100626554
+    second: houses_outside_shadows_41
+  - first:
+      213: 2148704972855494675
+    second: houses_outside_shadows_42
+  - first:
+      213: -627111172096468601
+    second: houses_outside_shadows_43
+  - first:
+      213: 3210118995225001823
+    second: houses_outside_shadows_44
+  - first:
+      213: 5373506700322011550
+    second: houses_outside_shadows_45
+  - first:
+      213: 6015172503518674742
+    second: houses_outside_shadows_46
+  - first:
+      213: -5576956211058253991
+    second: houses_outside_shadows_47
+  - first:
+      213: -229940269154808460
+    second: houses_outside_shadows_48
+  - first:
+      213: -8600648577905579766
+    second: houses_outside_shadows_49
+  - first:
+      213: 4982507948998540573
+    second: houses_outside_shadows_50
+  - first:
+      213: 6718930998998380906
+    second: houses_outside_shadows_51
+  - first:
+      213: 5755542218218197667
+    second: houses_outside_shadows_52
+  - first:
+      213: 4985703739332383546
+    second: houses_outside_shadows_53
+  - first:
+      213: -3291779465253920001
+    second: houses_outside_shadows_54
+  - first:
+      213: 1672683738769032490
+    second: houses_outside_shadows_55
+  - first:
+      213: 2942301770597516078
+    second: houses_outside_shadows_56
+  - first:
+      213: -8531626590234628561
+    second: houses_outside_shadows_57
+  - first:
+      213: 1936760776790081360
+    second: houses_outside_shadows_58
+  - first:
+      213: -7913759787040718595
+    second: houses_outside_shadows_59
+  - first:
+      213: 6929384982217092358
+    second: houses_outside_shadows_60
+  - first:
+      213: 6753415442197644324
+    second: houses_outside_shadows_61
+  - first:
+      213: 4575471714785268984
+    second: houses_outside_shadows_62
+  - first:
+      213: 5579626742033827307
+    second: houses_outside_shadows_63
+  - first:
+      213: -537695775829496816
+    second: houses_outside_shadows_64
+  - first:
+      213: 8875756043332313934
+    second: houses_outside_shadows_65
+  - first:
+      213: 52231691982982787
+    second: houses_outside_shadows_66
+  - first:
+      213: -1961148317633052920
+    second: houses_outside_shadows_67
+  - first:
+      213: -2646670064386901478
+    second: houses_outside_shadows_68
+  - first:
+      213: -2974525846543167179
+    second: houses_outside_shadows_69
+  - first:
+      213: -9174791983942977171
+    second: houses_outside_shadows_70
+  - first:
+      213: -9091884372482577119
+    second: houses_outside_shadows_71
+  - first:
+      213: 7990277351299532338
+    second: houses_outside_shadows_72
+  - first:
+      213: -3155436334776484122
+    second: houses_outside_shadows_73
+  - first:
+      213: 5141662023831054444
+    second: houses_outside_shadows_74
+  - first:
+      213: -1086604850017746236
+    second: houses_outside_shadows_75
+  - first:
+      213: 70163008337517990
+    second: houses_outside_shadows_76
+  - first:
+      213: -6263448517549983554
+    second: houses_outside_shadows_77
+  - first:
+      213: -8216419796474661815
+    second: houses_outside_shadows_78
+  - first:
+      213: -2808528395628083413
+    second: houses_outside_shadows_79
+  - first:
+      213: -4405437561817771469
+    second: houses_outside_shadows_80
+  - first:
+      213: -2725005667653268785
+    second: houses_outside_shadows_81
+  - first:
+      213: -1341660958078643962
+    second: houses_outside_shadows_82
+  - first:
+      213: -1663048694089039061
+    second: houses_outside_shadows_83
+  - first:
+      213: -1742914769467192446
+    second: houses_outside_shadows_84
+  - first:
+      213: -1236016120178299333
+    second: houses_outside_shadows_85
+  - first:
+      213: 8168224011742015938
+    second: houses_outside_shadows_86
+  - first:
+      213: -5908449372165539898
+    second: houses_outside_shadows_87
+  - first:
+      213: -7561031078585660220
+    second: houses_outside_shadows_88
+  - first:
+      213: 8889058653149676594
+    second: houses_outside_shadows_89
+  - first:
+      213: 6656228060485481263
+    second: houses_outside_shadows_90
+  - first:
+      213: -6230027752779895677
+    second: houses_outside_shadows_91
+  - first:
+      213: 5357362418538448742
+    second: houses_outside_shadows_92
+  - first:
+      213: -7603565639239945337
+    second: houses_outside_shadows_93
+  - first:
+      213: 3881375923235223666
+    second: houses_outside_shadows_94
+  - first:
+      213: 1096215065048100309
+    second: houses_outside_shadows_95
+  - first:
+      213: -8847243441488696531
+    second: houses_outside_shadows_96
+  - first:
+      213: 2056284120038401768
+    second: houses_outside_shadows_97
+  - first:
+      213: 6409119889539830265
+    second: houses_outside_shadows_98
+  - first:
+      213: -475218958962808320
+    second: houses_outside_shadows_99
+  - first:
+      213: 7317962264403431377
+    second: houses_outside_shadows_100
+  - first:
+      213: 6942607495176640951
+    second: houses_outside_shadows_101
+  - first:
+      213: -4744504362549528064
+    second: houses_outside_shadows_102
+  - first:
+      213: 1210785966998627370
+    second: houses_outside_shadows_103
+  - first:
+      213: -6054307146227224864
+    second: houses_outside_shadows_104
+  - first:
+      213: 5640066679234835951
+    second: houses_outside_shadows_105
+  - first:
+      213: -7002967034465039949
+    second: houses_outside_shadows_106
+  - first:
+      213: -3346158321237134772
+    second: houses_outside_shadows_107
+  - first:
+      213: -1652957514075505880
+    second: houses_outside_shadows_108
+  - first:
+      213: -2563596721464757740
+    second: houses_outside_shadows_109
+  - first:
+      213: 2531107657667969573
+    second: houses_outside_shadows_110
+  - first:
+      213: 3307978529115730176
+    second: houses_outside_shadows_111
+  - first:
+      213: 8681319884132657348
+    second: houses_outside_shadows_112
+  - first:
+      213: 8758222769981474166
+    second: houses_outside_shadows_113
+  - first:
+      213: 8143587642646635722
+    second: houses_outside_shadows_114
+  - first:
+      213: -4170827237762863897
+    second: houses_outside_shadows_115
+  - first:
+      213: 509291987992695074
+    second: houses_outside_shadows_116
+  - first:
+      213: -9066010898741907853
+    second: houses_outside_shadows_117
+  - first:
+      213: 4451326488172091964
+    second: houses_outside_shadows_118
+  - first:
+      213: -1484500870937721597
+    second: houses_outside_shadows_119
+  - first:
+      213: 6684465346433268028
+    second: houses_outside_shadows_120
+  - first:
+      213: -2635850112098519493
+    second: houses_outside_shadows_121
+  - first:
+      213: 3419856586339561289
+    second: houses_outside_shadows_122
+  - first:
+      213: -2058161776949547877
+    second: houses_outside_shadows_123
+  - first:
+      213: -2799958182583059295
+    second: houses_outside_shadows_124
+  - first:
+      213: 1346984433742553639
+    second: houses_outside_shadows_125
+  - first:
+      213: -2012587825659284351
+    second: houses_outside_shadows_126
+  - first:
+      213: -8670632643165202665
+    second: houses_outside_shadows_127
+  - first:
+      213: -8632584305130070110
+    second: houses_outside_shadows_128
+  - first:
+      213: 6024243561640886169
+    second: houses_outside_shadows_129
+  - first:
+      213: 2560170200832316318
+    second: houses_outside_shadows_130
+  - first:
+      213: 5976421814199395476
+    second: houses_outside_shadows_131
+  - first:
+      213: 2458190286062014941
+    second: houses_outside_shadows_132
+  - first:
+      213: -2163540242280055803
+    second: houses_outside_shadows_133
+  - first:
+      213: -289673774011693300
+    second: houses_outside_shadows_134
+  - first:
+      213: -6587636150661050785
+    second: houses_outside_shadows_135
+  - first:
+      213: -7106365894864956418
+    second: houses_outside_shadows_136
+  - first:
+      213: 188917992756835384
+    second: houses_outside_shadows_137
+  - first:
+      213: -8508885345122763193
+    second: houses_outside_shadows_138
+  - first:
+      213: 8238137155818155205
+    second: houses_outside_shadows_139
+  - first:
+      213: -8789879317890475780
+    second: houses_outside_shadows_140
+  - first:
+      213: 5161334691627356544
+    second: houses_outside_shadows_141
+  - first:
+      213: -4603614687630241295
+    second: houses_outside_shadows_142
+  - first:
+      213: 4009794808430246836
+    second: houses_outside_shadows_143
+  - first:
+      213: 8042251895890910088
+    second: houses_outside_shadows_144
+  - first:
+      213: -2202277370027621014
+    second: houses_outside_shadows_145
+  - first:
+      213: 3328743585770340652
+    second: houses_outside_shadows_146
+  - first:
+      213: -5309085595971844082
+    second: houses_outside_shadows_147
+  - first:
+      213: 4675211040772206918
+    second: houses_outside_shadows_148
+  - first:
+      213: 6948571589681418614
+    second: houses_outside_shadows_149
+  - first:
+      213: -8800121874153260729
+    second: houses_outside_shadows_150
+  - first:
+      213: 9201598764340939069
+    second: houses_outside_shadows_151
+  - first:
+      213: -5235724860150808955
+    second: houses_outside_shadows_152
+  - first:
+      213: 1681084503364486701
+    second: houses_outside_shadows_153
+  - first:
+      213: -7250350906322999486
+    second: houses_outside_shadows_154
+  - first:
+      213: -7718893653542874071
+    second: houses_outside_shadows_155
+  - first:
+      213: 7124460630629221480
+    second: houses_outside_shadows_156
+  - first:
+      213: 1475308588376128327
+    second: houses_outside_shadows_157
+  - first:
+      213: 89310943943976848
+    second: houses_outside_shadows_158
+  - first:
+      213: 2513705371584722225
+    second: houses_outside_shadows_159
+  - first:
+      213: 3641489559585455305
+    second: houses_outside_shadows_160
+  - first:
+      213: 2169458577517350383
+    second: houses_outside_shadows_161
+  - first:
+      213: 1833160749815179007
+    second: houses_outside_shadows_162
+  - first:
+      213: -2553107461408056963
+    second: houses_outside_shadows_163
+  - first:
+      213: -4808110061750206626
+    second: houses_outside_shadows_164
+  - first:
+      213: 7932482469463072184
+    second: houses_outside_shadows_165
+  - first:
+      213: -3097250766304371340
+    second: houses_outside_shadows_166
+  - first:
+      213: -393326579802035212
+    second: houses_outside_shadows_167
+  - first:
+      213: 100610655687258476
+    second: houses_outside_shadows_168
+  - first:
+      213: -4576419838747590340
+    second: houses_outside_shadows_169
+  - first:
+      213: 8469925130238733615
+    second: houses_outside_shadows_170
+  - first:
+      213: -599052021516579121
+    second: houses_outside_shadows_171
+  - first:
+      213: -898814188000559817
+    second: houses_outside_shadows_172
+  - first:
+      213: -1054051245922451663
+    second: houses_outside_shadows_173
+  - first:
+      213: -3230723913624474926
+    second: houses_outside_shadows_174
+  - first:
+      213: 1431017415276315575
+    second: houses_outside_shadows_175
+  - first:
+      213: -9114789993898444667
+    second: houses_outside_shadows_176
+  - first:
+      213: 8281510733368945372
+    second: houses_outside_shadows_177
+  - first:
+      213: -4750283911568271929
+    second: houses_outside_shadows_178
+  - first:
+      213: 9178630267493137753
+    second: houses_outside_shadows_179
+  - first:
+      213: 922052779611814551
+    second: houses_outside_shadows_180
+  - first:
+      213: -5283822150344662978
+    second: houses_outside_shadows_181
+  - first:
+      213: -1416555052299428030
+    second: houses_outside_shadows_182
+  - first:
+      213: -7242935650210254879
+    second: houses_outside_shadows_183
+  - first:
+      213: -4225200292390304554
+    second: houses_outside_shadows_184
+  - first:
+      213: -4662374884605545485
+    second: houses_outside_shadows_185
+  - first:
+      213: -3288195514953679089
+    second: houses_outside_shadows_186
+  - first:
+      213: 2149875800488000184
+    second: houses_outside_shadows_187
+  - first:
+      213: 6982601807007842273
+    second: houses_outside_shadows_188
+  - first:
+      213: -7327507523308283645
+    second: houses_outside_shadows_189
+  - first:
+      213: 4266097101733939942
+    second: houses_outside_shadows_190
+  - first:
+      213: -3338539213227127311
+    second: houses_outside_shadows_191
+  - first:
+      213: -6891488367248350920
+    second: houses_outside_shadows_192
+  - first:
+      213: -8847278658714085311
+    second: houses_outside_shadows_193
+  - first:
+      213: -4898294715255448302
+    second: houses_outside_shadows_194
+  - first:
+      213: -6819513240734524385
+    second: houses_outside_shadows_195
+  - first:
+      213: 6337404407659328707
+    second: houses_outside_shadows_196
+  - first:
+      213: 3283269025429975983
+    second: houses_outside_shadows_197
+  - first:
+      213: -1388166632458845630
+    second: houses_outside_shadows_198
+  - first:
+      213: -4354292211842369736
+    second: houses_outside_shadows_199
+  - first:
+      213: -7064860628421686706
+    second: houses_outside_shadows_200
+  - first:
+      213: -8453651269090514313
+    second: houses_outside_shadows_201
+  - first:
+      213: -573612175004548105
+    second: houses_outside_shadows_202
+  - first:
+      213: 1553395454127824807
+    second: houses_outside_shadows_203
+  - first:
+      213: -5404953837754083401
+    second: houses_outside_shadows_204
+  - first:
+      213: 2326065171570988794
+    second: houses_outside_shadows_205
+  - first:
+      213: 9080076215473004604
+    second: houses_outside_shadows_206
+  - first:
+      213: 1214424444228070829
+    second: houses_outside_shadows_207
+  - first:
+      213: 3240800029702590734
+    second: houses_outside_shadows_208
+  - first:
+      213: -6958058109022904812
+    second: houses_outside_shadows_209
+  - first:
+      213: 3413620364598463749
+    second: houses_outside_shadows_210
+  - first:
+      213: 1502807559557478867
+    second: houses_outside_shadows_211
+  - first:
+      213: 1189911487503096404
+    second: houses_outside_shadows_212
+  - first:
+      213: 41672230470959439
+    second: houses_outside_shadows_213
+  - first:
+      213: -2930907786251993377
+    second: houses_outside_shadows_214
+  - first:
+      213: -8609086158473552739
+    second: houses_outside_shadows_215
+  - first:
+      213: -1499064463970413657
+    second: houses_outside_shadows_216
+  - first:
+      213: -260215550306812188
+    second: houses_outside_shadows_217
+  - first:
+      213: 789168786888501754
+    second: houses_outside_shadows_218
+  - first:
+      213: -3322216807416550465
+    second: houses_outside_shadows_219
+  - first:
+      213: -4828754512628548785
+    second: houses_outside_shadows_220
+  - first:
+      213: -6328140216936397744
+    second: houses_outside_shadows_221
+  - first:
+      213: 4546373472171592833
+    second: houses_outside_shadows_222
+  - first:
+      213: -5490011497072453268
+    second: houses_outside_shadows_223
+  - first:
+      213: 5662453038281013267
+    second: houses_outside_shadows_224
+  - first:
+      213: 3757396813638702397
+    second: houses_outside_shadows_225
+  - first:
+      213: -2575949939495412177
+    second: houses_outside_shadows_226
+  - first:
+      213: 1675248564986542011
+    second: houses_outside_shadows_227
+  - first:
+      213: -6698616048486242492
+    second: houses_outside_shadows_228
+  - first:
+      213: -6083544137560798175
+    second: houses_outside_shadows_229
+  - first:
+      213: -5962442899107936666
+    second: houses_outside_shadows_230
+  - first:
+      213: -8945463582927113164
+    second: houses_outside_shadows_231
+  - first:
+      213: 3229504428746669588
+    second: houses_outside_shadows_232
+  - first:
+      213: -8545279534797891694
+    second: houses_outside_shadows_233
+  - first:
+      213: 2138096263300814143
+    second: houses_outside_shadows_234
+  - first:
+      213: 9072115302814966387
+    second: houses_outside_shadows_235
+  - first:
+      213: 7418852614946785364
+    second: houses_outside_shadows_236
+  - first:
+      213: -6853196255498341886
+    second: houses_outside_shadows_237
+  - first:
+      213: 2507228110427010782
+    second: houses_outside_shadows_238
+  - first:
+      213: -2720772271946287099
+    second: houses_outside_shadows_239
+  - first:
+      213: 8140175738958186759
+    second: houses_outside_shadows_240
+  - first:
+      213: 6371129426482795080
+    second: houses_outside_shadows_241
+  - first:
+      213: -4140871936149417855
+    second: houses_outside_shadows_242
+  - first:
+      213: -814791988693523793
+    second: houses_outside_shadows_243
+  - first:
+      213: -3096429211640694806
+    second: houses_outside_shadows_244
+  - first:
+      213: 2334323196019989338
+    second: houses_outside_shadows_245
+  - first:
+      213: 1809068898368066368
+    second: houses_outside_shadows_246
+  - first:
+      213: 5091995314727797318
+    second: houses_outside_shadows_247
+  - first:
+      213: 4605926167241943561
+    second: houses_outside_shadows_248
+  - first:
+      213: 8031254208573171547
+    second: houses_outside_shadows_249
+  - first:
+      213: 7223755962737880709
+    second: houses_outside_shadows_250
+  - first:
+      213: -6679758615506698951
+    second: houses_outside_shadows_251
+  - first:
+      213: 7070691827288346958
+    second: houses_outside_shadows_252
+  - first:
+      213: -4669224921571579764
+    second: houses_outside_shadows_253
+  - first:
+      213: -7701265319541310987
+    second: houses_outside_shadows_254
+  - first:
+      213: 5316445072347792262
+    second: houses_outside_shadows_255
+  - first:
+      213: -407271185045679586
+    second: houses_outside_shadows_256
+  - first:
+      213: 5294585876120386126
+    second: houses_outside_shadows_257
+  - first:
+      213: 7085255629893513508
+    second: houses_outside_shadows_258
+  - first:
+      213: -4160129648108543397
+    second: houses_outside_shadows_259
+  - first:
+      213: -7587882256632441459
+    second: houses_outside_shadows_260
+  - first:
+      213: -7292183489525071353
+    second: houses_outside_shadows_261
+  - first:
+      213: -5850145988064648966
+    second: houses_outside_shadows_262
+  - first:
+      213: -7466139840195496845
+    second: houses_outside_shadows_263
+  - first:
+      213: 93358955743845571
+    second: houses_outside_shadows_264
+  - first:
+      213: -979110543002826404
+    second: houses_outside_shadows_265
+  - first:
+      213: -2898321186647813456
+    second: houses_outside_shadows_266
+  - first:
+      213: 1394207738929206877
+    second: houses_outside_shadows_267
+  - first:
+      213: -716752193058303975
+    second: houses_outside_shadows_268
+  - first:
+      213: -5412808732777022406
+    second: houses_outside_shadows_269
+  - first:
+      213: 8052106541064437018
+    second: houses_outside_shadows_270
+  - first:
+      213: -5826741588809905660
+    second: houses_outside_shadows_271
+  - first:
+      213: -5112808394815372978
+    second: houses_outside_shadows_272
+  - first:
+      213: -2238562847181104668
+    second: houses_outside_shadows_273
+  - first:
+      213: -7135189782050794742
+    second: houses_outside_shadows_274
+  - first:
+      213: 5339272896075791011
+    second: houses_outside_shadows_275
+  - first:
+      213: -4938485845321052451
+    second: houses_outside_shadows_276
+  - first:
+      213: -2079204059083505280
+    second: houses_outside_shadows_277
+  - first:
+      213: 6889117201500224938
+    second: houses_outside_shadows_278
+  - first:
+      213: -7925666018089410734
+    second: houses_outside_shadows_279
+  - first:
+      213: 2524508208898065209
+    second: houses_outside_shadows_280
+  - first:
+      213: 8706198407164159872
+    second: houses_outside_shadows_281
+  - first:
+      213: -686903320158676858
+    second: houses_outside_shadows_282
+  - first:
+      213: -5949532259156568343
+    second: houses_outside_shadows_283
+  - first:
+      213: 7403890923209639782
+    second: houses_outside_shadows_284
+  - first:
+      213: 668755275553835204
+    second: houses_outside_shadows_285
+  - first:
+      213: -7025484888908752597
+    second: houses_outside_shadows_286
+  - first:
+      213: -9158307074440519282
+    second: houses_outside_shadows_287
+  - first:
+      213: -4223787715909752907
+    second: houses_outside_shadows_288
+  - first:
+      213: -7439295488319132105
+    second: houses_outside_shadows_289
+  - first:
+      213: -4654216412184579050
+    second: houses_outside_shadows_290
+  - first:
+      213: -1284802575093521121
+    second: houses_outside_shadows_291
+  - first:
+      213: 6603272149569594810
+    second: houses_outside_shadows_292
+  - first:
+      213: 1675773181068291176
+    second: houses_outside_shadows_293
+  - first:
+      213: -5172761778315710640
+    second: houses_outside_shadows_294
+  - first:
+      213: 3886676848168930892
+    second: houses_outside_shadows_295
+  - first:
+      213: 2012827363457388117
+    second: houses_outside_shadows_296
+  - first:
+      213: -3249488950265322319
+    second: houses_outside_shadows_297
+  - first:
+      213: 7560288021517544609
+    second: houses_outside_shadows_298
+  - first:
+      213: -1706598176101726379
+    second: houses_outside_shadows_299
+  - first:
+      213: 7290359377833759345
+    second: houses_outside_shadows_300
+  - first:
+      213: 6994414773853340364
+    second: houses_outside_shadows_301
+  - first:
+      213: -4130429992679383597
+    second: houses_outside_shadows_302
+  - first:
+      213: -3642490634376230836
+    second: houses_outside_shadows_303
+  - first:
+      213: 7892637805636561597
+    second: houses_outside_shadows_304
+  - first:
+      213: -7974819876086011241
+    second: houses_outside_shadows_305
+  - first:
+      213: -4310923818477916871
+    second: houses_outside_shadows_306
+  - first:
+      213: 1839083247742764199
+    second: houses_outside_shadows_307
+  - first:
+      213: 1622735754227812680
+    second: houses_outside_shadows_308
+  - first:
+      213: 5555335067603222875
+    second: houses_outside_shadows_309
+  - first:
+      213: -3217038825538738213
+    second: houses_outside_shadows_310
+  - first:
+      213: -6637063352276603202
+    second: houses_outside_shadows_311
+  - first:
+      213: 4617586769876695700
+    second: houses_outside_shadows_312
+  - first:
+      213: 4456430756548267843
+    second: houses_outside_shadows_313
+  - first:
+      213: -3460994799985791439
+    second: houses_outside_shadows_314
+  - first:
+      213: 4559631724985563686
+    second: houses_outside_shadows_315
+  - first:
+      213: 1704893758091251778
+    second: houses_outside_shadows_316
+  - first:
+      213: 1791139583937834389
+    second: houses_outside_shadows_317
+  - first:
+      213: -2517537837317898518
+    second: houses_outside_shadows_318
+  - first:
+      213: 3389824077061770264
+    second: houses_outside_shadows_319
+  - first:
+      213: 2915472041847547602
+    second: houses_outside_shadows_320
+  - first:
+      213: -599177668942674349
+    second: houses_outside_shadows_321
+  - first:
+      213: 1305461791431379296
+    second: houses_outside_shadows_322
+  - first:
+      213: -2649952402704688368
+    second: houses_outside_shadows_323
+  - first:
+      213: -6865589937123092275
+    second: houses_outside_shadows_324
+  - first:
+      213: -5070766262310777389
+    second: houses_outside_shadows_325
+  - first:
+      213: 6128377747881936956
+    second: houses_outside_shadows_326
+  - first:
+      213: 4712456157248570592
+    second: houses_outside_shadows_327
+  - first:
+      213: -781339089717617064
+    second: houses_outside_shadows_328
+  - first:
+      213: -3637964375821633367
+    second: houses_outside_shadows_329
+  - first:
+      213: 5630351494025423401
+    second: houses_outside_shadows_330
+  - first:
+      213: 7874797314678119850
+    second: houses_outside_shadows_331
+  - first:
+      213: -4548995883022011119
+    second: houses_outside_shadows_332
+  - first:
+      213: -7363132729646039053
+    second: houses_outside_shadows_333
+  - first:
+      213: -7604262521854073022
+    second: houses_outside_shadows_334
+  - first:
+      213: 5171296086592848129
+    second: houses_outside_shadows_335
+  - first:
+      213: 7556274398671188859
+    second: houses_outside_shadows_336
+  - first:
+      213: -1811965984037435430
+    second: houses_outside_shadows_337
+  - first:
+      213: -5581023980263258582
+    second: houses_outside_shadows_338
+  - first:
+      213: 3062115333192076457
+    second: houses_outside_shadows_339
+  - first:
+      213: 7931741643986163104
+    second: houses_outside_shadows_340
+  - first:
+      213: 2363782232020396693
+    second: houses_outside_shadows_341
+  - first:
+      213: 3613666062306702379
+    second: houses_outside_shadows_342
+  - first:
+      213: -3663511633098231446
+    second: houses_outside_shadows_343
+  - first:
+      213: -1877568904869524725
+    second: houses_outside_shadows_344
+  - first:
+      213: 3181040651874501384
+    second: houses_outside_shadows_345
+  - first:
+      213: -3206706744512026851
+    second: houses_outside_shadows_346
+  - first:
+      213: -6838979319997298788
+    second: houses_outside_shadows_347
+  - first:
+      213: -6309481822383423882
+    second: houses_outside_shadows_348
+  - first:
+      213: 8907690705377912332
+    second: houses_outside_shadows_349
+  - first:
+      213: -1476664051308356782
+    second: houses_outside_shadows_350
+  - first:
+      213: -3183198063872860385
+    second: houses_outside_shadows_351
+  - first:
+      213: -5503093712924893286
+    second: houses_outside_shadows_352
+  - first:
+      213: -5216546174734021261
+    second: houses_outside_shadows_353
+  - first:
+      213: 6967215584919523113
+    second: houses_outside_shadows_354
+  - first:
+      213: 4365469639709446786
+    second: houses_outside_shadows_355
+  - first:
+      213: 8144493586165081336
+    second: houses_outside_shadows_356
+  - first:
+      213: -5152154210610580317
+    second: houses_outside_shadows_357
+  - first:
+      213: 8423262016111899490
+    second: houses_outside_shadows_358
+  - first:
+      213: 206963187248378377
+    second: houses_outside_shadows_359
+  - first:
+      213: 7926231802807270644
+    second: houses_outside_shadows_360
+  - first:
+      213: 1566095583848458201
+    second: houses_outside_shadows_361
+  - first:
+      213: 8410960225497967981
+    second: houses_outside_shadows_362
+  - first:
+      213: 1554483648571283234
+    second: houses_outside_shadows_363
+  - first:
+      213: -7451163845597797568
+    second: houses_outside_shadows_364
+  - first:
+      213: 1632905117292452247
+    second: houses_outside_shadows_365
+  - first:
+      213: 6476654417303698702
+    second: houses_outside_shadows_366
+  - first:
+      213: -1394571762261220550
+    second: houses_outside_shadows_367
+  - first:
+      213: -6234256547141813405
+    second: houses_outside_shadows_368
+  - first:
+      213: -6536980886822930408
+    second: houses_outside_shadows_369
+  - first:
+      213: -6423212761442889173
+    second: houses_outside_shadows_370
+  - first:
+      213: -5964319273564997748
+    second: houses_outside_shadows_371
+  - first:
+      213: -3418109909231079543
+    second: houses_outside_shadows_372
+  - first:
+      213: 4887942034407301550
+    second: houses_outside_shadows_373
+  - first:
+      213: -6486547177678702720
+    second: houses_outside_shadows_374
+  - first:
+      213: 6525310851525724505
+    second: houses_outside_shadows_375
+  - first:
+      213: 2329564664942916323
+    second: houses_outside_shadows_376
+  - first:
+      213: -3442628385513573752
+    second: houses_outside_shadows_377
+  - first:
+      213: 7670839752439732876
+    second: houses_outside_shadows_378
+  - first:
+      213: 1334561632157164224
+    second: houses_outside_shadows_379
+  - first:
+      213: -3556782476125396992
+    second: houses_outside_shadows_380
+  - first:
+      213: -3222640556790336797
+    second: houses_outside_shadows_381
+  - first:
+      213: 3948192000378310200
+    second: houses_outside_shadows_382
+  - first:
+      213: 3776183811379763397
+    second: houses_outside_shadows_383
+  - first:
+      213: 4155769184416349066
+    second: houses_outside_shadows_384
+  - first:
+      213: -352954365142631318
+    second: houses_outside_shadows_385
+  - first:
+      213: 7863207181209584532
+    second: houses_outside_shadows_386
+  - first:
+      213: 7028561943192258894
+    second: houses_outside_shadows_387
+  - first:
+      213: -8424356754273457566
+    second: houses_outside_shadows_388
+  - first:
+      213: -6192938405002707535
+    second: houses_outside_shadows_389
+  - first:
+      213: -103536191141694070
+    second: houses_outside_shadows_390
+  - first:
+      213: 2235900061421803661
+    second: houses_outside_shadows_391
+  - first:
+      213: 5328097497738213013
+    second: houses_outside_shadows_392
+  - first:
+      213: 151314618122171461
+    second: houses_outside_shadows_393
+  - first:
+      213: 7320942762344139256
+    second: houses_outside_shadows_394
+  - first:
+      213: -6491551089992240927
+    second: houses_outside_shadows_395
+  - first:
+      213: 6033300425799413571
+    second: houses_outside_shadows_396
+  - first:
+      213: 4681269986741923146
+    second: houses_outside_shadows_397
+  - first:
+      213: 4830980392159609937
+    second: houses_outside_shadows_398
+  - first:
+      213: 3154844181144459542
+    second: houses_outside_shadows_399
+  - first:
+      213: 3996298895100016055
+    second: houses_outside_shadows_400
+  - first:
+      213: 3295387067210084416
+    second: houses_outside_shadows_401
+  - first:
+      213: 2773020994035875337
+    second: houses_outside_shadows_402
+  - first:
+      213: -1804248463354977456
+    second: houses_outside_shadows_403
+  - first:
+      213: 7961932379336367601
+    second: houses_outside_shadows_404
+  - first:
+      213: 6130697125501919225
+    second: houses_outside_shadows_405
+  - first:
+      213: -7540493034492523162
+    second: houses_outside_shadows_406
+  - first:
+      213: 873375207098870917
+    second: houses_outside_shadows_407
+  - first:
+      213: 6032272240112082944
+    second: houses_outside_shadows_408
+  - first:
+      213: 8554955380138101781
+    second: houses_outside_shadows_409
+  - first:
+      213: 4227014953731593811
+    second: houses_outside_shadows_410
+  - first:
+      213: 1824183270724927832
+    second: houses_outside_shadows_411
+  - first:
+      213: 4851482169262232910
+    second: houses_outside_shadows_412
+  - first:
+      213: 3015193050843532917
+    second: houses_outside_shadows_413
+  - first:
+      213: 2738968401641443781
+    second: houses_outside_shadows_414
+  - first:
+      213: 7370642799624619726
+    second: houses_outside_shadows_415
+  - first:
+      213: 4652788132994004602
+    second: houses_outside_shadows_416
+  - first:
+      213: -5074860975437188200
+    second: houses_outside_shadows_417
+  - first:
+      213: 5606028029894548683
+    second: houses_outside_shadows_418
+  - first:
+      213: -3231630759141504722
+    second: houses_outside_shadows_419
+  - first:
+      213: 5741849813523978229
+    second: houses_outside_shadows_420
+  - first:
+      213: 2342736534287915005
+    second: houses_outside_shadows_421
+  - first:
+      213: 6977752246366274904
+    second: houses_outside_shadows_422
+  - first:
+      213: 2647321713621924573
+    second: houses_outside_shadows_423
+  - first:
+      213: -4381267274275120157
+    second: houses_outside_shadows_424
+  - first:
+      213: -1475687826242344281
+    second: houses_outside_shadows_425
+  - first:
+      213: 5771906752381439122
+    second: houses_outside_shadows_426
+  - first:
+      213: -8366415399771514923
+    second: houses_outside_shadows_427
+  - first:
+      213: -3261807908244030216
+    second: houses_outside_shadows_428
+  - first:
+      213: -2636208731967757795
+    second: houses_outside_shadows_429
+  - first:
+      213: -7778536083850934481
+    second: houses_outside_shadows_430
+  - first:
+      213: 3665728288765933798
+    second: houses_outside_shadows_431
+  - first:
+      213: -6808398277587366469
+    second: houses_outside_shadows_432
+  - first:
+      213: 6299144182182417410
+    second: houses_outside_shadows_433
+  - first:
+      213: 7920754547914406990
+    second: houses_outside_shadows_434
+  - first:
+      213: 6252363253673311045
+    second: houses_outside_shadows_435
+  - first:
+      213: -1041614113003730615
+    second: houses_outside_shadows_436
+  - first:
+      213: -4666135225144001731
+    second: houses_outside_shadows_437
+  - first:
+      213: 6257820168976274428
+    second: houses_outside_shadows_438
+  - first:
+      213: 8731733983181190956
+    second: houses_outside_shadows_439
+  - first:
+      213: 3056904957291310578
+    second: houses_outside_shadows_440
+  - first:
+      213: -2709105641466260756
+    second: houses_outside_shadows_441
+  - first:
+      213: 4415107858223170703
+    second: houses_outside_shadows_442
+  - first:
+      213: 2304774342527977128
+    second: houses_outside_shadows_443
+  - first:
+      213: -1574876063420138790
+    second: houses_outside_shadows_444
+  - first:
+      213: -5856813149967696034
+    second: houses_outside_shadows_445
+  - first:
+      213: 4128653792593303160
+    second: houses_outside_shadows_446
+  - first:
+      213: -775567144981719299
+    second: houses_outside_shadows_447
+  - first:
+      213: -7010387870019070589
+    second: houses_outside_shadows_448
+  - first:
+      213: -9092277444205533351
+    second: houses_outside_shadows_449
+  - first:
+      213: 9062553285424682968
+    second: houses_outside_shadows_450
+  - first:
+      213: -5557767976247679504
+    second: houses_outside_shadows_451
+  - first:
+      213: 2325157643014992598
+    second: houses_outside_shadows_452
+  - first:
+      213: -398263969228210827
+    second: houses_outside_shadows_453
+  - first:
+      213: -5380680453057861137
+    second: houses_outside_shadows_454
+  - first:
+      213: 3991583931756417248
+    second: houses_outside_shadows_455
+  - first:
+      213: -1467237806547248650
+    second: houses_outside_shadows_456
+  - first:
+      213: -2607633445053058738
+    second: houses_outside_shadows_457
+  - first:
+      213: 4614204823809580900
+    second: houses_outside_shadows_458
+  - first:
+      213: -4778100079225643145
+    second: houses_outside_shadows_459
+  - first:
+      213: 4126106262379925991
+    second: houses_outside_shadows_460
+  - first:
+      213: -5629660583065672662
+    second: houses_outside_shadows_461
+  - first:
+      213: -4169896173468959814
+    second: houses_outside_shadows_462
+  - first:
+      213: 1951192827996494311
+    second: houses_outside_shadows_463
+  - first:
+      213: 8467994139196028184
+    second: houses_outside_shadows_464
+  - first:
+      213: 6526807584382570868
+    second: houses_outside_shadows_465
+  - first:
+      213: -5445636459060759040
+    second: houses_outside_shadows_466
+  - first:
+      213: -2068820947706279859
+    second: houses_outside_shadows_467
+  - first:
+      213: 7578668774340435739
+    second: houses_outside_shadows_468
+  - first:
+      213: 5822707946845987197
+    second: houses_outside_shadows_469
+  - first:
+      213: 8753830387471568619
+    second: houses_outside_shadows_470
+  - first:
+      213: -615102108523784139
+    second: houses_outside_shadows_471
+  - first:
+      213: -4706804256506061503
+    second: houses_outside_shadows_472
+  - first:
+      213: 5899864659671287781
+    second: houses_outside_shadows_473
+  - first:
+      213: -3854391054065859153
+    second: houses_outside_shadows_474
+  - first:
+      213: -8386001304479640122
+    second: houses_outside_shadows_475
+  - first:
+      213: -5652740291962663333
+    second: houses_outside_shadows_476
+  - first:
+      213: 2135458216469795230
+    second: houses_outside_shadows_477
+  - first:
+      213: 4096455459752987003
+    second: houses_outside_shadows_478
+  - first:
+      213: -1423216297617622489
+    second: houses_outside_shadows_479
+  - first:
+      213: -6387666272349939143
+    second: houses_outside_shadows_480
+  - first:
+      213: 5800724070470558191
+    second: houses_outside_shadows_481
+  - first:
+      213: -6582547802524210534
+    second: houses_outside_shadows_482
+  - first:
+      213: 357151476476442409
+    second: houses_outside_shadows_483
+  - first:
+      213: 8000572953608081801
+    second: houses_outside_shadows_484
+  - first:
+      213: 9172713028499053795
+    second: houses_outside_shadows_485
+  - first:
+      213: 3674081958535777429
+    second: houses_outside_shadows_486
+  - first:
+      213: -3706438506007506144
+    second: houses_outside_shadows_487
+  - first:
+      213: -3742197975920624592
+    second: houses_outside_shadows_488
+  - first:
+      213: 6207238099098099633
+    second: houses_outside_shadows_489
+  - first:
+      213: -5997174783066164077
+    second: houses_outside_shadows_490
+  - first:
+      213: 2416254325871034014
+    second: houses_outside_shadows_491
+  - first:
+      213: 6549949968086798873
+    second: houses_outside_shadows_492
+  - first:
+      213: 4950790087619832777
+    second: houses_outside_shadows_493
+  - first:
+      213: -6730952019855801699
+    second: houses_outside_shadows_494
+  - first:
+      213: -4801068400036941525
+    second: houses_outside_shadows_495
+  - first:
+      213: -1212079745869109597
+    second: houses_outside_shadows_496
+  - first:
+      213: -2710731491437854548
+    second: houses_outside_shadows_497
+  - first:
+      213: 1680651304663626287
+    second: houses_outside_shadows_498
+  - first:
+      213: 3879120646941596679
+    second: houses_outside_shadows_499
+  - first:
+      213: -7265320195012441544
+    second: houses_outside_shadows_500
+  - first:
+      213: -1877759954221464028
+    second: houses_outside_shadows_501
+  - first:
+      213: -1431239657833051178
+    second: houses_outside_shadows_502
+  - first:
+      213: -3710373285255496434
+    second: houses_outside_shadows_503
+  - first:
+      213: 4644549936492586532
+    second: houses_outside_shadows_504
+  - first:
+      213: 3611880023026474817
+    second: houses_outside_shadows_505
+  - first:
+      213: 8163816392176422137
+    second: houses_outside_shadows_506
+  - first:
+      213: -1904334871897687346
+    second: houses_outside_shadows_507
+  - first:
+      213: -8121410499821757842
+    second: houses_outside_shadows_508
+  - first:
+      213: -3838623871983210514
+    second: houses_outside_shadows_509
+  - first:
+      213: -7944515522054126121
+    second: houses_outside_shadows_510
+  - first:
+      213: 8126801929490789395
+    second: houses_outside_shadows_511
+  - first:
+      213: 724995090227207904
+    second: houses_outside_shadows_512
+  - first:
+      213: -2368845755689717776
+    second: houses_outside_shadows_513
+  - first:
+      213: 12197448958156053
+    second: houses_outside_shadows_514
+  - first:
+      213: -4030163664628835948
+    second: houses_outside_shadows_515
+  - first:
+      213: -3271374790006547977
+    second: houses_outside_shadows_516
+  - first:
+      213: -1121438223050993929
+    second: houses_outside_shadows_517
+  - first:
+      213: -6691595463086969184
+    second: houses_outside_shadows_518
+  - first:
+      213: -999691825454677587
+    second: houses_outside_shadows_519
+  - first:
+      213: -7723200530660904128
+    second: houses_outside_shadows_520
+  - first:
+      213: 5839597361872754523
+    second: houses_outside_shadows_521
+  - first:
+      213: 8045334796016407843
+    second: houses_outside_shadows_522
+  - first:
+      213: 3518994956053707350
+    second: houses_outside_shadows_523
+  - first:
+      213: -9039366599760170165
+    second: houses_outside_shadows_524
+  - first:
+      213: -4987151040689992591
+    second: houses_outside_shadows_525
+  - first:
+      213: -4317034878870523042
+    second: houses_outside_shadows_526
+  - first:
+      213: -7028522649053149713
+    second: houses_outside_shadows_527
+  - first:
+      213: 4347127696137952596
+    second: houses_outside_shadows_528
+  - first:
+      213: -7610181914038441129
+    second: houses_outside_shadows_529
+  - first:
+      213: -7579277888793682430
+    second: houses_outside_shadows_530
+  - first:
+      213: -2789451337861765894
+    second: houses_outside_shadows_531
+  - first:
+      213: 3395972685403702752
+    second: houses_outside_shadows_532
+  - first:
+      213: 7905656440025699804
+    second: houses_outside_shadows_533
+  - first:
+      213: -5048721729303955478
+    second: houses_outside_shadows_534
+  - first:
+      213: 5414670948470289394
+    second: houses_outside_shadows_535
+  - first:
+      213: -5397947484885339543
+    second: houses_outside_shadows_536
+  - first:
+      213: 314853637657976241
+    second: houses_outside_shadows_537
+  - first:
+      213: 8891872152425755209
+    second: houses_outside_shadows_538
+  - first:
+      213: -3821188590911489844
+    second: houses_outside_shadows_539
+  - first:
+      213: -1624909294888144431
+    second: houses_outside_shadows_540
+  - first:
+      213: 7244077643407726254
+    second: houses_outside_shadows_541
+  - first:
+      213: 6244989998679401690
+    second: houses_outside_shadows_542
+  - first:
+      213: 3634090000800585982
+    second: houses_outside_shadows_543
+  - first:
+      213: -4375386211736211384
+    second: houses_outside_shadows_544
+  - first:
+      213: 3231620524996107712
+    second: houses_outside_shadows_545
+  - first:
+      213: 6039576331868304325
+    second: houses_outside_shadows_546
+  - first:
+      213: -7598054156677694368
+    second: houses_outside_shadows_547
+  - first:
+      213: 4595066329458086362
+    second: houses_outside_shadows_548
+  - first:
+      213: 5161121023310214764
+    second: houses_outside_shadows_549
+  - first:
+      213: 3139710891669582462
+    second: houses_outside_shadows_550
+  - first:
+      213: 3072411707315162572
+    second: houses_outside_shadows_551
+  - first:
+      213: -4984908665855095245
+    second: houses_outside_shadows_552
+  - first:
+      213: 7174087813785886775
+    second: houses_outside_shadows_553
+  - first:
+      213: -1630991025065116144
+    second: houses_outside_shadows_554
+  - first:
+      213: 1228021132362016288
+    second: houses_outside_shadows_555
+  - first:
+      213: -7761620299685265414
+    second: houses_outside_shadows_556
+  - first:
+      213: 6369881799952560193
+    second: houses_outside_shadows_557
+  - first:
+      213: 1309324889065970662
+    second: houses_outside_shadows_558
+  - first:
+      213: 687036993926154592
+    second: houses_outside_shadows_559
+  - first:
+      213: -2913877799456887338
+    second: houses_outside_shadows_560
+  - first:
+      213: 3724233599101792385
+    second: houses_outside_shadows_561
+  - first:
+      213: -3104092950021558676
+    second: houses_outside_shadows_562
+  - first:
+      213: 8422190453477675359
+    second: houses_outside_shadows_563
+  - first:
+      213: -6520861239875623645
+    second: houses_outside_shadows_564
+  - first:
+      213: -3818982361974710059
+    second: houses_outside_shadows_565
+  - first:
+      213: 1081056094180117390
+    second: houses_outside_shadows_566
+  - first:
+      213: -5503500172493063833
+    second: houses_outside_shadows_567
+  - first:
+      213: -5103412765328604229
+    second: houses_outside_shadows_568
+  - first:
+      213: -8387689077061619002
+    second: houses_outside_shadows_569
+  - first:
+      213: -6628382253609752844
+    second: houses_outside_shadows_570
+  - first:
+      213: 415497795739904577
+    second: houses_outside_shadows_571
+  - first:
+      213: 2757994878798368169
+    second: houses_outside_shadows_572
+  - first:
+      213: -8622941557335619413
+    second: houses_outside_shadows_573
+  - first:
+      213: -1124263562074616444
+    second: houses_outside_shadows_574
+  - first:
+      213: 4579722644246114140
+    second: houses_outside_shadows_575
+  - first:
+      213: 1978308915354261738
+    second: houses_outside_shadows_576
+  - first:
+      213: -2460643275698937666
+    second: houses_outside_shadows_577
+  - first:
+      213: 7039433785442038539
+    second: houses_outside_shadows_578
+  - first:
+      213: 4832110360037631404
+    second: houses_outside_shadows_579
+  - first:
+      213: 2956609751486130312
+    second: houses_outside_shadows_580
+  - first:
+      213: -5530777396257283157
+    second: houses_outside_shadows_581
+  - first:
+      213: -6906685329016590820
+    second: houses_outside_shadows_582
+  - first:
+      213: -7489487260641686612
+    second: houses_outside_shadows_583
+  - first:
+      213: -7831059756814622585
+    second: houses_outside_shadows_584
+  - first:
+      213: -4198968813847173215
+    second: houses_outside_shadows_585
+  - first:
+      213: 5612112585527959898
+    second: houses_outside_shadows_586
+  - first:
+      213: 29177771212629374
+    second: houses_outside_shadows_587
+  - first:
+      213: 2343693626522244415
+    second: houses_outside_shadows_588
+  - first:
+      213: -8194831994317676191
+    second: houses_outside_shadows_589
+  - first:
+      213: -7032439283354906650
+    second: houses_outside_shadows_590
+  - first:
+      213: -3870492432467928080
+    second: houses_outside_shadows_591
+  - first:
+      213: 6951571297155414912
+    second: houses_outside_shadows_592
+  - first:
+      213: -3711437908011963667
+    second: houses_outside_shadows_593
+  - first:
+      213: -1878029537903540398
+    second: houses_outside_shadows_594
+  - first:
+      213: -7118592862347906105
+    second: houses_outside_shadows_595
+  - first:
+      213: 1312732613351699216
+    second: houses_outside_shadows_596
+  - first:
+      213: -7073459224686951818
+    second: houses_outside_shadows_597
+  - first:
+      213: 1487739575493324064
+    second: houses_outside_shadows_598
+  - first:
+      213: 790242961523997440
+    second: houses_outside_shadows_599
+  - first:
+      213: -5579084055985801116
+    second: houses_outside_shadows_600
+  - first:
+      213: -1280193914794131223
+    second: houses_outside_shadows_601
+  - first:
+      213: -6310394862019709771
+    second: houses_outside_shadows_602
+  - first:
+      213: 3919636586667616992
+    second: houses_outside_shadows_603
+  - first:
+      213: -2519205615466919160
+    second: houses_outside_shadows_604
+  - first:
+      213: -1978501445012434611
+    second: houses_outside_shadows_605
+  - first:
+      213: -5565416715543845329
+    second: houses_outside_shadows_606
+  - first:
+      213: -1465084026395441287
+    second: houses_outside_shadows_607
+  - first:
+      213: 4060854625365089997
+    second: houses_outside_shadows_608
+  - first:
+      213: -2002774323801552038
+    second: houses_outside_shadows_609
+  - first:
+      213: -571338027987764346
+    second: houses_outside_shadows_610
+  - first:
+      213: 7755106669166366790
+    second: houses_outside_shadows_611
+  - first:
+      213: 3932987790144030302
+    second: houses_outside_shadows_612
+  - first:
+      213: 7161873999408137468
+    second: houses_outside_shadows_613
+  - first:
+      213: 3765903601957437424
+    second: houses_outside_shadows_614
+  - first:
+      213: -5992588474950567762
+    second: houses_outside_shadows_615
+  - first:
+      213: -5005441343492351088
+    second: houses_outside_shadows_616
+  - first:
+      213: 3320427401203047295
+    second: houses_outside_shadows_617
+  - first:
+      213: -4763721513499675186
+    second: houses_outside_shadows_618
+  - first:
+      213: -4223774044117339903
+    second: houses_outside_shadows_619
+  - first:
+      213: -212161464341646992
+    second: houses_outside_shadows_620
+  - first:
+      213: -7447208939021216700
+    second: houses_outside_shadows_621
+  - first:
+      213: -4000355907695997929
+    second: houses_outside_shadows_622
+  - first:
+      213: 2405358887630650015
+    second: houses_outside_shadows_623
+  - first:
+      213: 1690006228708046526
+    second: houses_outside_shadows_624
+  - first:
+      213: -753960352875248698
+    second: houses_outside_shadows_625
+  - first:
+      213: -7783099332791440089
+    second: houses_outside_shadows_626
+  - first:
+      213: -2789242701519425161
+    second: houses_outside_shadows_627
+  - first:
+      213: 1918815610566247031
+    second: houses_outside_shadows_628
+  - first:
+      213: 1867873941704309138
+    second: houses_outside_shadows_629
+  - first:
+      213: -3778025434330332484
+    second: houses_outside_shadows_630
+  - first:
+      213: 3255979412433981308
+    second: houses_outside_shadows_631
+  - first:
+      213: 6744461243805412968
+    second: houses_outside_shadows_632
+  - first:
+      213: 5272089540245882875
+    second: houses_outside_shadows_633
+  - first:
+      213: -7407915489478579067
+    second: houses_outside_shadows_634
+  - first:
+      213: -2155664928141142380
+    second: houses_outside_shadows_635
+  - first:
+      213: 2600102719134987106
+    second: houses_outside_shadows_636
+  - first:
+      213: -3616829578447083761
+    second: houses_outside_shadows_637
+  - first:
+      213: -4886098578223215567
+    second: houses_outside_shadows_638
+  - first:
+      213: 3731348806139884143
+    second: houses_outside_shadows_639
+  - first:
+      213: -7428317669042506722
+    second: houses_outside_shadows_640
+  - first:
+      213: -6090211825395350489
+    second: houses_outside_shadows_641
+  - first:
+      213: -1991353819009566278
+    second: houses_outside_shadows_642
+  - first:
+      213: 553653096581650116
+    second: houses_outside_shadows_643
+  - first:
+      213: -4857615436260161272
+    second: houses_outside_shadows_644
+  - first:
+      213: 7771267565565329241
+    second: houses_outside_shadows_645
+  - first:
+      213: -5189588278869028145
+    second: houses_outside_shadows_646
+  - first:
+      213: 4119063808735526200
+    second: houses_outside_shadows_647
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +1976,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +1985,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +2012,31 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +2045,2422 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: houses_outside_shadows_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c373434821e481bb0800000000000000
+      internalID: -4965132747741579460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc95320e8daf2e8b0800000000000000
+      internalID: -5124257616613910067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac65a45b66aa9f810800000000000000
+      internalID: 1799656884216157898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 928
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83fb94759acc8e50800000000000000
+      internalID: 6813043079560033165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22596b80abf1ef310800000000000000
+      internalID: 1440623814675698978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 928
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302a31e0916a0b70800000000000000
+      internalID: 8866006091314110519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a1ce3e206fb810800000000000000
+      internalID: 1783249729199645440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 928
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86d1260e9d6f3e10800000000000000
+      internalID: 2179581270145750671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 992
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316ea805a01fa620800000000000000
+      internalID: 2787464995366920498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_9
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 992
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5873b276202709280800000000000000
+      internalID: -9038599097486198907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2c0c4542984dd80800000000000000
+      internalID: -8226799830165306661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_11
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 960
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926c4c5e404a40db0800000000000000
+      internalID: -4826552559692626391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af7b21c10a888af0800000000000000
+      internalID: -393913227254464603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 960
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d025a1e8eb0b91350800000000000000
+      internalID: 5988011512040149517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 881
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a006b681193792ea0800000000000000
+      internalID: -5897055170047811574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 881
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f79f67d165c0aaa0800000000000000
+      internalID: -6151700066971183119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 881
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed86f428bd49fdf10800000000000000
+      internalID: 2296718005487233246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 881
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bbe07d09beeb9f0800000000000000
+      internalID: -450663905374586016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_18
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 875
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2675379b22f009970800000000000000
+      internalID: 8759517917050263394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_19
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 875
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de31e037ab864d0800000000000000
+      internalID: -3141055736770728629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_20
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 875
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50cb6b3aa444c330800000000000000
+      internalID: 3730181889301659740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_21
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 875
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bcc18faeff78580800000000000000
+      internalID: -8824803560159130741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 896
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df49da7442401e4a0800000000000000
+      internalID: -6565962227861580547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_23
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 896
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6a827e1bcc2b810800000000000000
+      internalID: 1779709867224245963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 757
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5853c2241ee1dcc80800000000000000
+      internalID: -8300944585347287675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 757
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54332ac4a7b648b00800000000000000
+      internalID: 829906404358894405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 817
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2be2606307fed0800000000000000
+      internalID: -2380430165530693952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 817
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f4bb770b35ca60800000000000000
+      internalID: 7693620441758627608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 817
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2822647029e0dd190800000000000000
+      internalID: -7936170948006894974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 817
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec862f3457a27df0800000000000000
+      internalID: -183900654490186516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_30
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 811
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a89f447684106b50800000000000000
+      internalID: 6584285222925211813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 811
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fdbf253bf13f9e0800000000000000
+      internalID: -1588891388479807681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_32
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 811
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65fe63c8bb259c30800000000000000
+      internalID: 4365443486358369645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_33
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 811
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce7185ffd7f4d2a0800000000000000
+      internalID: -6713468603233894718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 661
+        width: 146
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ec82c4a2178b4f0800000000000000
+      internalID: -812775306260066674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 661
+        width: 146
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa48c345e42ce10800000000000000
+      internalID: 2216420090319253452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23542e917c661b0d0800000000000000
+      internalID: -3408830437623970510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 32
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f8a9f4c00e2b7c0800000000000000
+      internalID: -4056933970827636842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e6b2dfcf86080c0800000000000000
+      internalID: -4575541785619894768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 32
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2884d45b41e7c0800000000000000
+      internalID: -4043868162686964196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_40
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d4dde057ddae80800000000000000
+      internalID: -8165633806765338172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 608
+        width: 32
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6872f681b8306d4e0800000000000000
+      internalID: -1957373092100626554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_42
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ca2ad9cbb1dd10800000000000000
+      internalID: 2148704972855494675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_43
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 608
+        width: 31
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789d28826bd0c47f0800000000000000
+      internalID: -627111172096468601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fbe1dd732ac8c20800000000000000
+      internalID: 3210118995225001823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 614
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99ffd6bfd7829a40800000000000000
+      internalID: 5373506700322011550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 614
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f7deea58f2a7350800000000000000
+      internalID: 6015172503518674742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 614
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fd6ffbfdbaa92b0800000000000000
+      internalID: -5576956211058253991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 615
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d48712b861fccf0800000000000000
+      internalID: -229940269154808460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 615
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0928f3cfab54a880800000000000000
+      internalID: -8600648577905579766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3e96c49c652540800000000000000
+      internalID: 4982507948998540573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 582
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61b8a925207e3d50800000000000000
+      internalID: 6718930998998380906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 582
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2d8ae372bcfdf40800000000000000
+      internalID: 5755542218218197667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 582
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a335e32b227c03540800000000000000
+      internalID: 4985703739332383546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 579
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff26d9654004152d0800000000000000
+      internalID: -3291779465253920001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 579
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2586e68ff0963710800000000000000
+      internalID: 1672683738769032490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_56
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 468
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23c7721fd725d820800000000000000
+      internalID: 2942301770597516078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_57
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 468
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ea9c491d2999980800000000000000
+      internalID: -8531626590234628561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_58
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 468
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7b734aa1c0ea10800000000000000
+      internalID: 1936760776790081360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_59
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 468
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0caaf076dac2290800000000000000
+      internalID: -7913759787040718595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60de9f88dee1a2060800000000000000
+      internalID: 6929384982217092358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 550
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42404d44093f8bd50800000000000000
+      internalID: 6753415442197644324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 550
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f49f9f58475f7f30800000000000000
+      internalID: 4575471714785268984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 550
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be54232b5f0de6d40800000000000000
+      internalID: 5579626742033827307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 547
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c647c6a88b988f0800000000000000
+      internalID: -537695775829496816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_65
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 547
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4369db78150d2b70800000000000000
+      internalID: 8875756043332313934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ec9a6727099b000800000000000000
+      internalID: 52231691982982787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 518
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f70a7eef998c4e0800000000000000
+      internalID: -1961148317633052920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 518
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1afe8e5993254bd0800000000000000
+      internalID: -2646670064386901478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 518
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5319395908c58b6d0800000000000000
+      internalID: -2974525846543167179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 515
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d693afcfc479ca080800000000000000
+      internalID: -9174791983942977171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_71
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 515
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d2047855323d180800000000000000
+      internalID: -9091884372482577119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236ce0daaea23ee60800000000000000
+      internalID: 7990277351299532338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 486
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee794a2f53a534d0800000000000000
+      internalID: -3155436334776484122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68e0957e5ada5740800000000000000
+      internalID: 5141662023831054444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2c97f55aa9be0f0800000000000000
+      internalID: -1086604850017746236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 490
+        width: 96
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad945462e449f000800000000000000
+      internalID: 70163008337517990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87c7a22c2c319a0800000000000000
+      internalID: -6263448517549983554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944f3a14ab969fd80800000000000000
+      internalID: -8216419796474661815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b278dfced4a1609d0800000000000000
+      internalID: -2808528395628083413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33250b7e0edbcd2c0800000000000000
+      internalID: -4405437561817771469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 453
+        width: 96
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac99078c5de2ad0800000000000000
+      internalID: -2725005667653268785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60156b09776716de0800000000000000
+      internalID: -1341660958078643962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2345a0260aabe8e0800000000000000
+      internalID: -1663048694089039061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b4024604cefc7e0800000000000000
+      internalID: -1742914769467192446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ead1c23e9c8dee0800000000000000
+      internalID: -1236016120178299333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_86
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f2b9267c5b5170800000000000000
+      internalID: 8168224011742015938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_87
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c771bea998f00ea0800000000000000
+      internalID: -5908449372165539898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_88
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc86394b42d11790800000000000000
+      internalID: -7561031078585660220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_89
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2344990bfb74c5b70800000000000000
+      internalID: 8889058653149676594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_90
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f237931a72caf5c50800000000000000
+      internalID: 6656228060485481263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_91
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38caab654ce7a89a0800000000000000
+      internalID: -6230027752779895677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_92
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66703023cbc295a40800000000000000
+      internalID: 5357362418538448742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_93
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783bcb62655ba7690800000000000000
+      internalID: -7603565639239945337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278703876da6dd530800000000000000
+      internalID: 3881375923235223666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddaf9d2bc9863f00800000000000000
+      internalID: 1096215065048100309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_96
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b69a4f6f6483580800000000000000
+      internalID: -8847243441488696531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e66a243383698c10800000000000000
+      internalID: 2056284120038401768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 256
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f199e22594c1f850800000000000000
+      internalID: 6409119889539830265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aad78efdea769f0800000000000000
+      internalID: -475218958962808320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfca7148ef9e8560800000000000000
+      internalID: 7317962264403431377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9d7fcbbb8195060800000000000000
+      internalID: 6942607495176640951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ab1f27b62282eb0800000000000000
+      internalID: -4744504362549528064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 117
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a242bf50c639dc010800000000000000
+      internalID: 1210785966998627370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_104
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 238
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee64044ab7cafba0800000000000000
+      internalID: -6054307146227224864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_105
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 238
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe53f4d23ca854e40800000000000000
+      internalID: 5640066679234835951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_106
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 128
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c0f0e59670de90800000000000000
+      internalID: -7002967034465039949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_107
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 192
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42717c4cbe0091d0800000000000000
+      internalID: -3346158321237134772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_108
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 197
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b77b016e38f09e0800000000000000
+      internalID: -1652957514075505880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_109
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 197
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412bcb54d564c6cd0800000000000000
+      internalID: -2563596721464757740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_110
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 192
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5220297110d402320800000000000000
+      internalID: 2531107657667969573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_111
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 133
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001ff8022fc48ed20800000000000000
+      internalID: 3307978529115730176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 133
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c82343607e3a7870800000000000000
+      internalID: 8681319884132657348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 133
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675cb7cc4357b8970800000000000000
+      internalID: 8758222769981474166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadows_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 108
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a63d70d5d30170800000000000000
+      internalID: 8143587642646635722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

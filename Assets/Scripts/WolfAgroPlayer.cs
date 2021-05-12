@@ -19,59 +19,65 @@ public class WolfAgroPlayer : MonoBehaviour
 
     Vector2 movement;
 
-    float offset = 0.85f;
+    public float buffer = 0.85f;
+
+    public float offset = .3f;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        movement.x = 0;
-        movement.y = 0;
     }
 
-    // Update is called once per frame
     void Update() {
         float distToPlayer = Vector2.Distance(transform.position, player.position);
 
-        if (distToPlayer < agroRange && distToPlayer > offset) {
+        if (distToPlayer < agroRange && distToPlayer > buffer) {
             ChasePlayer();
             animator.SetFloat("Speed", 1);
-        } else if (distToPlayer < agroRange && distToPlayer <= offset) {
-            animator.SetFloat("Speed", 0);
-            Debug.Log(movement.sqrMagnitude);
+        } else if (distToPlayer < agroRange && distToPlayer < buffer) {
+            animator.SetFloat("Speed", 0);            
             movement.x = 0;
             movement.y = 0;
         } else {
             animator.SetFloat("Speed", 0);
             movement.x = 0;
             movement.y = 0;
-        }     
+        }   
+        animator.SetFloat("Horizontal", movement.x);
+        animator.SetFloat("Vertical", movement.y);
+        animator.SetInteger("Facing", facingDirection);          
     }
 
-    void FixedUpdate() {        
+    void FixedUpdate() {
         rb.MovePosition(rb.position + movement.normalized * moveSpeed * Time.fixedDeltaTime);
     }
 
     void ChasePlayer()
     {
-        if (transform.position.x < player.position.x)
+        if (transform.position.x < player.position.x - (buffer - offset))
         {
             movement.x = 1;
+            facingDirection = 1;
         }
-        else if (transform.position.x > player.position.x)
+        else if (transform.position.x > player.position.x + (buffer - offset))
         {
             movement.x = -1;
+            facingDirection = 3;
+        } else {
+            movement.x = 0;
         }
 
-        if (transform.position.y < player.position.y)
+        if (transform.position.y < player.position.y - (buffer - offset))
         {
             movement.y = 1;
+            facingDirection = 0;
         }
-        else if (transform.position.y > player.position.y)
+        else if (transform.position.y > player.position.y + (buffer - offset))
         {
             movement.y = -1;
-        }
-
-        animator.SetFloat("Horizontal", movement.x);
-        animator.SetFloat("Vertical", movement.y);
+            facingDirection = 2;
+        } else {
+            movement.y = 0;
+        }        
     }
 }
